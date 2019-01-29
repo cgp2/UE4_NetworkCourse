@@ -1,0 +1,2059 @@
+﻿Log file open, 01/30/19 00:53:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 9 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.183958
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.027s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-0
+LogInit: Engine Version: 4.21.2-0+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-0+++UE4+Release-4.21
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 29 2019 21:54:40
+LogInit: Compiled with Visual C++: 19.16.27026.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: -log
+LogInit: Base Directory: D:/Studing/PRojects/NetworkUE4/Builds/WindowsNoEditor/AnimeWolfy/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: false
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.29-21.53.24:217][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.01.29-21.53.24:217][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.29-21.53.24:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-21.53.24:218][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.29-21.53.24:218][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-21.53.24:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-21.53.24:219][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.29-21.53.24:219][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.29-21.53.24:220][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.29-21.53.24:220][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.29-21.53.24:221][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.29-21.53.24:221][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.29-21.53.24:221][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.29-21.53.24:222][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.29-21.53.24:222][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.29-21.53.24:222][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.29-21.53.24:223][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.29-21.53.24:223][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.29-21.53.24:223][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.29-21.53.24:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-21.53.24:224][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.29-21.53.24:224][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.29-21.53.24:224][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.29-21.53.24:227][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.29-21.53.24:228][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.29-21.53.24:228][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.29-21.53.24:228][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.29-21.53.24:229][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.29-21.53.24:229][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.29-21.53.24:229][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.29-21.53.24:230][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.29-21.53.24:230][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.29-21.53.24:230][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.29-21.53.24:231][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.29-21.53.24:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-21.53.24:232][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:233][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-21.53.24:234][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-21.53.24:235][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:235][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-21.53.24:236][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:239][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-21.53.24:239][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-21.53.24:239][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-21.53.24:240][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-21.53.24:240][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-21.53.24:241][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-21.53.24:242][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-21.53.24:242][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-21.53.24:242][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-21.53.24:243][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-21.53.24:243][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-21.53.24:243][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-21.53.24:244][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-21.53.24:244][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-21.53.24:244][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-21.53.24:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-21.53.24:245][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-21.53.24:245][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-21.53.24:246][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:246][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-21.53.24:246][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-21.53.24:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-21.53.24:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-21.53.24:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-21.53.24:250][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-21.53.24:251][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-21.53.24:251][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-21.53.24:252][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-21.53.24:252][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-21.53.24:252][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-21.53.24:252][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-21.53.24:253][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-21.53.24:253][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-21.53.24:253][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-21.53.24:254][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-21.53.24:254][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-21.53.24:254][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-21.53.24:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-21.53.24:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-21.53.24:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-21.53.24:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-21.53.24:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-21.53.24:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-21.53.24:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-21.53.24:257][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-21.53.24:258][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-21.53.24:258][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-21.53.24:258][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-21.53.24:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-21.53.24:262][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:262][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-21.53.24:262][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-21.53.24:263][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-21.53.24:263][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-21.53.24:265][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-21.53.24:265][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-21.53.24:267][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-21.53.24:267][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-21.53.24:268][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:268][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-21.53.24:268][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-21.53.24:269][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-21.53.24:269][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-21.53.24:269][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-21.53.24:270][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-21.53.24:273][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-21.53.24:274][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-21.53.24:274][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-21.53.24:275][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-21.53.24:275][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-21.53.24:276][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-21.53.24:277][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-21.53.24:277][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:278][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-21.53.24:279][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-21.53.24:280][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2019.01.29-21.53.24:280][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2019.01.29-21.53.24:284][  0]LogHAL: Display: Platform has ~ 16 GB [17118220288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.29-21.53.24:284][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2019.01.29-21.53.24:284][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.29-21.53.24:285][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.29-21.53.24:285][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:285][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-21.53.24:285][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-21.53.24:286][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:286][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-21.53.24:287][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:287][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-21.53.24:287][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-21.53.24:288][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-21.53.24:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-21.53.24:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-21.53.24:288][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-21.53.24:289][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-21.53.24:289][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-21.53.24:290][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-21.53.24:290][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-21.53.24:290][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-21.53.24:291][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-21.53.24:291][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-21.53.24:291][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-21.53.24:291][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-21.53.24:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-21.53.24:295][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-21.53.24:295][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-21.53.24:295][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:296][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-21.53.24:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-21.53.24:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-21.53.24:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-21.53.24:297][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-21.53.24:297][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-21.53.24:298][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-21.53.24:298][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-21.53.24:298][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-21.53.24:298][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-21.53.24:299][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-21.53.24:299][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-21.53.24:299][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-21.53.24:300][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-21.53.24:300][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-21.53.24:300][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-21.53.24:301][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-21.53.24:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-21.53.24:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-21.53.24:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-21.53.24:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-21.53.24:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-21.53.24:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-21.53.24:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-21.53.24:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-21.53.24:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-21.53.24:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-21.53.24:307][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-21.53.24:307][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-21.53.24:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-21.53.24:308][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:308][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-21.53.24:309][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-21.53.24:309][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-21.53.24:309][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-21.53.24:310][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-21.53.24:310][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-21.53.24:310][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-21.53.24:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-21.53.24:311][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:311][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-21.53.24:312][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-21.53.24:312][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-21.53.24:312][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-21.53.24:313][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-21.53.24:313][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-21.53.24:313][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-21.53.24:313][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-21.53.24:314][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-21.53.24:314][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-21.53.24:314][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-21.53.24:315][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-21.53.24:315][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-21.53.24:315][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-21.53.24:316][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-21.53.24:319][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-21.53.24:320][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.29-21.53.24:320][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.29-21.53.24:321][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-21.53.24:321][  0]LogInit: Computer: DESKTOP-PF2V43L
+[2019.01.29-21.53.24:321][  0]LogInit: User: Tinki
+[2019.01.29-21.53.24:322][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.29-21.53.24:322][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.29-21.53.24:323][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.29-21.53.24:323][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2019.01.29-21.53.24:323][  0]LogMemory: Process Physical Memory: 53.48 MB used, 53.48 MB peak
+[2019.01.29-21.53.24:323][  0]LogMemory: Process Virtual Memory: 63.09 MB used, 63.09 MB peak
+[2019.01.29-21.53.24:324][  0]LogMemory: Physical Memory: 12505.00 MB used,  3820.21 MB free, 16325.21 MB total
+[2019.01.29-21.53.24:324][  0]LogMemory: Virtual Memory: 4426.79 MB used,  134213304.00 MB free, 134217728.00 MB total
+[2019.01.29-21.53.24:333][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.29-21.53.24:334][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.29-21.53.24:335][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2019.01.29-21.53.24:336][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2019.01.29-21.53.24:353][  0]LogStreaming: Display: Took  0.019s to InitEngineTextLocalization.
+[2019.01.29-21.53.24:355][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.29-21.53.24:355][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.29-21.53.24:356][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2019.01.29-21.53.24:356][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2019.01.29-21.53.24:357][  0]LogStreaming: Display: Took  0.001s to InitGameTextLocalization.
+[2019.01.29-21.53.24:364][  0]LogAssetRegistry: FAssetRegistry took 0.0064 seconds to start up
+[2019.01.29-21.53.24:425][  0]LogStreaming: Display: Flushing async loaders.
+[2019.01.29-21.53.24:431][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.005494 seconds
+[2019.01.29-21.53.24:431][  0]LogPakFile: New pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak added to pak precacher.
+[2019.01.29-21.53.24:433][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2019.01.29-21.53.24:439][  0]LogNetVersion: AnimeWolfy 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3604432672)
+[2019.01.29-21.53.24:524][  0]LogUObjectArray: 34939 objects as part of root set at end of initial load.
+[2019.01.29-21.53.24:524][  0]LogUObjectAllocator: 5215640 out of 0 bytes used by permanent object pool.
+[2019.01.29-21.53.24:525][  0]LogUObjectArray: CloseDisregardForGC: 34939/0 objects in disregard for GC pool
+[2019.01.29-21.53.24:626][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.29-21.53.24:626][  0]LogOcInput: OculusInput pre-init called
+[2019.01.29-21.53.24:638][  0]LogEngine: Initializing Engine...
+[2019.01.29-21.53.24:638][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-21.53.24:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-21.53.24:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-21.53.24:640][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-21.53.24:678][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.29-21.53.24:678][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.29-21.53.24:680][  0]LogInit: Texture streaming: Disabled
+[2019.01.29-21.53.24:748][  0]LogInit: Display: Game Engine Initialized.
+[2019.01.29-21.53.24:748][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.29-21.53.24:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-21.53.24:749][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-21.53.24:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-21.53.24:751][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-21.53.24:757][  0]LogInit: Display: Starting Game.
+[2019.01.29-21.53.24:758][  0]LogNet: Browse: /Game/Maps/TestMap?Name=Player
+[2019.01.29-21.53.24:759][  0]LogLoad: LoadMap: /Game/Maps/TestMap?Name=Player
+[2019.01.29-21.53.24:795][  0]LogAIModule: Creating AISystem for world TestMap
+[2019.01.29-21.53.24:796][  0]LogLoad: Game class is 'MultGameMode_C'
+[2019.01.29-21.53.24:797][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.01.29-21.53.24:797][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.01.29-21.53.24:798][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.01.29-21.53.24:798][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.01.29-21.53.24:798][  0]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.01.29-21.53.24:799][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.01.29-21.53.24:801][  0]LogInit: WinSock: I am DESKTOP-PF2V43L (192.168.1.4:0)
+[2019.01.29-21.53.24:801][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.29-21.53.24:801][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2019.01.29-21.53.24:802][  0]LogWorld: Bringing World /Game/Maps/TestMap.TestMap up for play (max tick rate 30) at 2019.01.30-00.53.24
+[2019.01.29-21.53.24:803][  0]LogWorld: Bringing up level for play took: 0.000809
+[2019.01.29-21.53.24:803][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.29-21.53.24:803][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.29-21.53.24:803][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.29-21.53.24:804][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.29-21.53.24:804][  0]LogLoad: Took 0.044387 seconds to LoadMap(/Game/Maps/TestMap)
+[2019.01.29-21.53.24:804][  0]LogLoad: (Engine Initialization) Total time: 1.00 seconds
+[2019.01.29-21.53.28:000][ 94]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+GameArea_C.SpawnFood
+MultGameMode_C.SpawnFood
+MultGameMode_C.ExecuteUbergraph_MultGameMode
+MultGameMode_C.ReceiveTick
+
+[2019.01.29-21.53.28:010][ 94]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.005 s
+[2019.01.29-21.53.28:011][ 94]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.29-21.53.28:012][ 94]LogOutputDevice: Error: 
+[2019.01.29-21.53.28:012][ 94]LogOutputDevice: Error: Ensure condition failed: AsAIController [File:C:\Program Files\Epic Games\UnrealEngine-release\Engine\Source\Runtime\AIModule\Private\Navigation\NavFilter_AIControllerDefault.cpp] [Line: 18]
+[2019.01.29-21.53.28:013][ 94]LogOutputDevice: Error: 
+[2019.01.29-21.53.28:014][ 94]LogOutputDevice: Error: Stack: 
+[2019.01.29-21.53.28:014][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75be857a1 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:015][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75bd0004c AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:015][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75bd00698 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:016][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75bd0e79a AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:016][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75bd5c4f1 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:017][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75905bce2 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:018][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff759231b19 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:018][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75924c91a AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:019][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff759260fa4 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:019][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75924f092 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:019][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff759232479 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:020][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75924c91a AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:020][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75924f092 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:021][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff759232479 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:021][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75924f092 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:022][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff759232479 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:022][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75924f092 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:022][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75905bce2 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:023][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75924e6b1 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:026][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75a8aa17b AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:026][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75b730e33 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:027][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75a8ba6b3 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:027][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75ad9fcfe AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:027][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75a8bae04 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:028][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75a88de25 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:028][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75b580e7a AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:029][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff758b4333d AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:029][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff758b437b6 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:030][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff758b557f9 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:030][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75b593633 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:031][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75b597b18 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:031][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75af2e20f AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:031][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75af36c32 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:032][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75ada0880 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:032][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff758629185 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:033][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff758636070 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:034][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff7586360fa AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:037][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff758642811 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:037][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff75c740182 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-21.53.28:038][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff894ae7e94 KERNEL32.DLL!UnknownFunction []
+[2019.01.29-21.53.28:038][ 94]LogOutputDevice: Error: [Callstack] 0x00007ff896f3a251 ntdll.dll!UnknownFunction []
+[2019.01.29-21.53.28:039][ 94]LogOutputDevice: Error: 
+[2019.01.29-21.53.28:046][ 94]LogStats:                SubmitErrorReport -  0.000 s
+[2019.01.29-21.53.28:136][ 94]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2019.01.29-21.53.28:137][ 94]LogWindows: Warning: URL: ../../../Engine/Binaries/Win64/CrashReportClient.exe "D:/Studing/PRojects/NetworkUE4/Builds/WindowsNoEditor/AnimeWolfy/Saved/Crashes/UE4CC-Windows-C8DE73784ECD2C67D30905BD31CC927D_0000" -Unattended -nullrhi -AppName=UE4-AnimeWolfy -CrashGUID=UE4CC-Windows-C8DE73784ECD2C67D30905BD31CC927D_0000 -DebugSymbols=..\..\..\Engine\Intermediate\Symbols
+[2019.01.29-21.53.28:139][ 94]LogStats:                    SendNewReport -  0.092 s
+[2019.01.29-21.53.28:139][ 94]LogStats:             FDebug::EnsureFailed -  0.138 s
+[2019.01.29-21.53.28:410][103]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54710
+[2019.01.29-21.53.28:410][103]LogHandshake: SendConnectChallenge. Timestamp: 3.604426, Cookie: 185118103002234124225120200166245037241234193147168144019210
+[2019.01.29-21.53.28:443][104]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54710
+[2019.01.29-21.53.28:443][104]LogHandshake: SendChallengeAck. InCookie: 185118103002234124225120200166245037241234193147168144019210
+[2019.01.29-21.53.28:445][104]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54710
+[2019.01.29-21.53.28:445][104]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.29-21.53.28:446][104]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 01/30/19 00:53:28, [UNetConnection] RemoteAddr: 127.0.0.1:54710, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.29-21.53.28:446][104]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54710, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.29-21.53.28:477][105]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/TestMap.TestMap: Accepted
+[2019.01.29-21.53.28:478][105]LogNet: Remote platform little endian=1
+[2019.01.29-21.53.28:483][105]LogNet: This platform little endian=1
+[2019.01.29-21.53.28:486][105]LogNetVersion: AnimeWolfy 1.0.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 632502508)
+[2019.01.29-21.53.28:510][106]LogNet: Login request: /Game/Maps/EntryMap?Name=DESKTOP-PF2V43L-8DABD35849C43FD9C9191D808FA13DEB userId: NULL:DESKTOP-PF2V43L-8DABD35849C43FD9C9191D808FA13DEB platform: NULL
+[2019.01.29-21.53.28:543][107]LogNet: Client netspeed is 10000
+[2019.01.29-21.53.28:576][108]LogNet: Join request: /Game/Maps/EntryMap?Name=DESKTOP-PF2V43L-8DABD35849C43FD9C9191D808FA13DEB?SplitscreenCount=1
+[2019.01.29-21.53.28:576][108]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.29-21.53.28:579][108]LogBlueprintUserMessages: [MultGameMode_C_0] Hello Kek!
+[2019.01.29-21.53.28:581][108]LogNet: Join succeeded: DESKTOP-PF2V43L-8DAB
+[2019.01.29-21.53.28:611][108]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:613][109]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:646][110]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:646][110]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: MaterialInstanceDynamic /Game/Maps/TestMap.TestMap:PersistentLevel.Wolfy_Char_C_0.CharacterMesh0.MaterialInstanceDynamic_0 NOT Supported.
+[2019.01.29-21.53.28:679][111]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:713][112]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:746][113]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:779][114]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:813][115]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.28:813][115]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:846][116]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:880][117]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.28:880][117]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:913][118]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:946][119]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.28:979][120]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.28:979][120]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:013][121]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:046][122]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:080][123]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:080][123]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:113][124]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:146][125]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:179][126]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:179][126]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:213][127]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:246][128]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:280][129]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:280][129]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:313][130]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:347][131]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:381][132]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:381][132]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:414][133]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:447][134]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:481][135]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:481][135]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:514][136]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:547][137]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:580][138]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:580][138]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:613][139]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:646][140]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:679][141]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:679][141]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:712][142]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:745][143]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:778][144]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:778][144]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:810][145]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:843][146]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:876][147]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:876][147]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:910][148]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:943][149]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.29:977][150]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.29:977][150]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:010][151]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:043][152]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:076][153]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:076][153]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:110][154]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:143][155]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:177][156]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:177][156]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:209][157]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:242][158]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:275][159]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:275][159]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:308][160]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:342][161]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:375][162]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:375][162]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:409][163]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:442][164]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:475][165]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:475][165]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:509][166]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:542][167]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:575][168]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:575][168]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:609][169]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:641][170]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:674][171]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:674][171]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:707][172]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:740][173]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:773][174]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:773][174]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:806][175]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:840][176]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:873][177]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:873][177]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:907][178]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:940][179]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.30:974][180]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.30:974][180]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:007][181]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:040][182]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:074][183]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:074][183]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:107][184]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:140][185]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:173][186]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:173][186]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:207][187]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:241][188]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:274][189]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:274][189]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:308][190]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:341][191]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:374][192]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:374][192]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:407][193]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:440][194]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:473][195]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:473][195]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:507][196]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:541][197]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:574][198]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:574][198]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:607][199]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:641][200]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:675][201]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:675][201]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:709][202]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:741][203]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:775][204]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:775][204]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:809][205]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:843][206]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:875][207]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:875][207]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:909][208]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:942][209]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.31:974][210]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.31:974][210]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:007][211]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:040][212]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:073][213]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:073][213]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:106][214]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:139][215]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:172][216]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:173][216]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:205][217]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:238][218]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:271][219]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:271][219]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:305][220]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:338][221]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:372][222]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:372][222]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:405][223]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:438][224]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:472][225]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:472][225]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:505][226]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:538][227]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:571][228]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:571][228]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:605][229]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:639][230]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:672][231]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:673][231]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:705][232]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:739][233]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:772][234]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:772][234]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:805][235]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:838][236]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:871][237]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:871][237]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:904][238]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:937][239]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.32:970][240]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.32:970][240]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:004][241]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:037][242]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:071][243]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:073][243]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:103][244]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:137][245]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:169][246]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:169][246]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:203][247]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:236][248]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:270][249]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:271][249]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:302][250]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:335][251]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:368][252]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:368][252]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:402][253]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:436][254]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:469][255]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:469][255]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:502][256]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:535][257]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:568][258]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:568][258]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:602][259]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:635][260]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:668][261]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:668][261]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:701][262]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:734][263]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:767][264]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:767][264]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:800][265]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:834][266]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:867][267]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:867][267]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:899][268]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:932][269]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:965][270]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.33:965][270]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.33:998][271]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.34:031][272]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.000 Y=1.000 Z=1.000
+[2019.01.29-21.53.34:064][273]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:064][273]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.065 Y=1.065 Z=1.065
+[2019.01.29-21.53.34:097][274]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.096 Y=1.096 Z=1.096
+[2019.01.29-21.53.34:130][275]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.126 Y=1.126 Z=1.126
+[2019.01.29-21.53.34:164][276]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:166][276]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.156 Y=1.156 Z=1.156
+[2019.01.29-21.53.34:197][277]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.184 Y=1.184 Z=1.184
+[2019.01.29-21.53.34:232][278]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.212 Y=1.212 Z=1.212
+[2019.01.29-21.53.34:264][279]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:264][279]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.237 Y=1.237 Z=1.237
+[2019.01.29-21.53.34:297][280]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.262 Y=1.262 Z=1.262
+[2019.01.29-21.53.34:332][281]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.288 Y=1.288 Z=1.288
+[2019.01.29-21.53.34:364][282]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:364][282]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.311 Y=1.311 Z=1.311
+[2019.01.29-21.53.34:397][283]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.334 Y=1.334 Z=1.334
+[2019.01.29-21.53.34:430][284]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.356 Y=1.356 Z=1.356
+[2019.01.29-21.53.34:463][285]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:463][285]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.377 Y=1.377 Z=1.377
+[2019.01.29-21.53.34:497][286]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.398 Y=1.398 Z=1.398
+[2019.01.29-21.53.34:530][287]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.418 Y=1.418 Z=1.418
+[2019.01.29-21.53.34:563][288]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:563][288]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.438 Y=1.438 Z=1.438
+[2019.01.29-21.53.34:598][289]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.457 Y=1.457 Z=1.457
+[2019.01.29-21.53.34:632][290]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.475 Y=1.475 Z=1.475
+[2019.01.29-21.53.34:664][291]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:664][291]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.492 Y=1.492 Z=1.492
+[2019.01.29-21.53.34:697][292]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.509 Y=1.509 Z=1.509
+[2019.01.29-21.53.34:731][293]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.525 Y=1.525 Z=1.525
+[2019.01.29-21.53.34:765][294]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:765][294]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.542 Y=1.542 Z=1.542
+[2019.01.29-21.53.34:797][295]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.556 Y=1.556 Z=1.556
+[2019.01.29-21.53.34:830][296]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.571 Y=1.571 Z=1.571
+[2019.01.29-21.53.34:864][297]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:864][297]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.586 Y=1.586 Z=1.586
+[2019.01.29-21.53.34:898][298]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.600 Y=1.600 Z=1.600
+[2019.01.29-21.53.34:932][299]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.614 Y=1.614 Z=1.614
+[2019.01.29-21.53.34:966][300]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.34:966][300]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.627 Y=1.627 Z=1.627
+[2019.01.29-21.53.35:000][301]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.639 Y=1.639 Z=1.639
+[2019.01.29-21.53.35:033][302]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.651 Y=1.651 Z=1.651
+[2019.01.29-21.53.35:066][303]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:066][303]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.662 Y=1.662 Z=1.662
+[2019.01.29-21.53.35:099][304]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.674 Y=1.674 Z=1.674
+[2019.01.29-21.53.35:134][305]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.685 Y=1.685 Z=1.685
+[2019.01.29-21.53.35:166][306]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:167][306]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.695 Y=1.695 Z=1.695
+[2019.01.29-21.53.35:198][307]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.705 Y=1.705 Z=1.705
+[2019.01.29-21.53.35:231][308]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.715 Y=1.715 Z=1.715
+[2019.01.29-21.53.35:265][309]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:265][309]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.725 Y=1.725 Z=1.725
+[2019.01.29-21.53.35:298][310]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.733 Y=1.733 Z=1.733
+[2019.01.29-21.53.35:332][311]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.743 Y=1.743 Z=1.743
+[2019.01.29-21.53.35:366][312]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:366][312]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.751 Y=1.751 Z=1.751
+[2019.01.29-21.53.35:400][313]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.760 Y=1.760 Z=1.760
+[2019.01.29-21.53.35:433][314]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.768 Y=1.768 Z=1.768
+[2019.01.29-21.53.35:468][315]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:468][315]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.776 Y=1.776 Z=1.776
+[2019.01.29-21.53.35:501][316]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.783 Y=1.783 Z=1.783
+[2019.01.29-21.53.35:534][317]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.790 Y=1.790 Z=1.790
+[2019.01.29-21.53.35:567][318]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:567][318]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.797 Y=1.797 Z=1.797
+[2019.01.29-21.53.35:601][319]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.804 Y=1.804 Z=1.804
+[2019.01.29-21.53.35:634][320]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.811 Y=1.811 Z=1.811
+[2019.01.29-21.53.35:668][321]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:668][321]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.817 Y=1.817 Z=1.817
+[2019.01.29-21.53.35:701][322]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.823 Y=1.823 Z=1.823
+[2019.01.29-21.53.35:735][323]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.829 Y=1.829 Z=1.829
+[2019.01.29-21.53.35:769][324]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:769][324]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.835 Y=1.835 Z=1.835
+[2019.01.29-21.53.35:802][325]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.840 Y=1.840 Z=1.840
+[2019.01.29-21.53.35:835][326]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.846 Y=1.846 Z=1.846
+[2019.01.29-21.53.35:868][327]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:869][327]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.851 Y=1.851 Z=1.851
+[2019.01.29-21.53.35:900][328]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.856 Y=1.856 Z=1.856
+[2019.01.29-21.53.35:933][329]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.860 Y=1.860 Z=1.860
+[2019.01.29-21.53.35:967][330]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.35:968][330]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.865 Y=1.865 Z=1.865
+[2019.01.29-21.53.36:001][331]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.870 Y=1.870 Z=1.870
+[2019.01.29-21.53.36:034][332]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.874 Y=1.874 Z=1.874
+[2019.01.29-21.53.36:067][333]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:067][333]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.878 Y=1.878 Z=1.878
+[2019.01.29-21.53.36:101][334]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.882 Y=1.882 Z=1.882
+[2019.01.29-21.53.36:136][335]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.886 Y=1.886 Z=1.886
+[2019.01.29-21.53.36:168][336]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:168][336]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.890 Y=1.890 Z=1.890
+[2019.01.29-21.53.36:202][337]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.894 Y=1.894 Z=1.894
+[2019.01.29-21.53.36:236][338]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.897 Y=1.897 Z=1.897
+[2019.01.29-21.53.36:270][339]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:270][339]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.901 Y=1.901 Z=1.901
+[2019.01.29-21.53.36:303][340]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.904 Y=1.904 Z=1.904
+[2019.01.29-21.53.36:336][341]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.907 Y=1.907 Z=1.907
+[2019.01.29-21.53.36:370][342]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:370][342]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.911 Y=1.911 Z=1.911
+[2019.01.29-21.53.36:403][343]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.913 Y=1.913 Z=1.913
+[2019.01.29-21.53.36:437][344]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.916 Y=1.916 Z=1.916
+[2019.01.29-21.53.36:471][345]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:471][345]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.919 Y=1.919 Z=1.919
+[2019.01.29-21.53.36:505][346]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.922 Y=1.922 Z=1.922
+[2019.01.29-21.53.36:539][347]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.925 Y=1.925 Z=1.925
+[2019.01.29-21.53.36:573][348]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:574][348]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.927 Y=1.927 Z=1.927
+[2019.01.29-21.53.36:606][349]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.930 Y=1.930 Z=1.930
+[2019.01.29-21.53.36:640][350]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.932 Y=1.932 Z=1.932
+[2019.01.29-21.53.36:672][351]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:672][351]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.934 Y=1.934 Z=1.934
+[2019.01.29-21.53.36:705][352]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.936 Y=1.936 Z=1.936
+[2019.01.29-21.53.36:739][353]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.938 Y=1.938 Z=1.938
+[2019.01.29-21.53.36:772][354]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:772][354]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.940 Y=1.940 Z=1.940
+[2019.01.29-21.53.36:805][355]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.942 Y=1.942 Z=1.942
+[2019.01.29-21.53.36:839][356]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.944 Y=1.944 Z=1.944
+[2019.01.29-21.53.36:872][357]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:872][357]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.946 Y=1.946 Z=1.946
+[2019.01.29-21.53.36:905][358]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.948 Y=1.948 Z=1.948
+[2019.01.29-21.53.36:940][359]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.950 Y=1.950 Z=1.950
+[2019.01.29-21.53.36:972][360]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.36:972][360]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.951 Y=1.951 Z=1.951
+[2019.01.29-21.53.37:006][361]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.953 Y=1.953 Z=1.953
+[2019.01.29-21.53.37:039][362]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.955 Y=1.955 Z=1.955
+[2019.01.29-21.53.37:073][363]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:073][363]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.956 Y=1.956 Z=1.956
+[2019.01.29-21.53.37:106][364]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.958 Y=1.958 Z=1.958
+[2019.01.29-21.53.37:140][365]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.959 Y=1.959 Z=1.959
+[2019.01.29-21.53.37:174][366]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:175][366]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.960 Y=1.960 Z=1.960
+[2019.01.29-21.53.37:206][367]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.962 Y=1.962 Z=1.962
+[2019.01.29-21.53.37:241][368]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.963 Y=1.963 Z=1.963
+[2019.01.29-21.53.37:273][369]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:273][369]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.964 Y=1.964 Z=1.964
+[2019.01.29-21.53.37:307][370]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.965 Y=1.965 Z=1.965
+[2019.01.29-21.53.37:340][371]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.967 Y=1.967 Z=1.967
+[2019.01.29-21.53.37:372][372]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:372][372]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.968 Y=1.968 Z=1.968
+[2019.01.29-21.53.37:406][373]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.969 Y=1.969 Z=1.969
+[2019.01.29-21.53.37:439][374]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.970 Y=1.970 Z=1.970
+[2019.01.29-21.53.37:472][375]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:472][375]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.971 Y=1.971 Z=1.971
+[2019.01.29-21.53.37:505][376]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.972 Y=1.972 Z=1.972
+[2019.01.29-21.53.37:538][377]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.973 Y=1.973 Z=1.973
+[2019.01.29-21.53.37:571][378]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:571][378]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.974 Y=1.974 Z=1.974
+[2019.01.29-21.53.37:604][379]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.974 Y=1.974 Z=1.974
+[2019.01.29-21.53.37:638][380]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.975 Y=1.975 Z=1.975
+[2019.01.29-21.53.37:671][381]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:671][381]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.976 Y=1.976 Z=1.976
+[2019.01.29-21.53.37:704][382]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.977 Y=1.977 Z=1.977
+[2019.01.29-21.53.37:737][383]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.978 Y=1.978 Z=1.978
+[2019.01.29-21.53.37:770][384]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:770][384]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.978 Y=1.978 Z=1.978
+[2019.01.29-21.53.37:803][385]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.979 Y=1.979 Z=1.979
+[2019.01.29-21.53.37:837][386]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.980 Y=1.980 Z=1.980
+[2019.01.29-21.53.37:871][387]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:871][387]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.981 Y=1.981 Z=1.981
+[2019.01.29-21.53.37:904][388]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.981 Y=1.981 Z=1.981
+[2019.01.29-21.53.37:939][389]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.982 Y=1.982 Z=1.982
+[2019.01.29-21.53.37:971][390]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.37:971][390]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.982 Y=1.982 Z=1.982
+[2019.01.29-21.53.38:005][391]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.983 Y=1.983 Z=1.983
+[2019.01.29-21.53.38:039][392]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.984 Y=1.984 Z=1.984
+[2019.01.29-21.53.38:072][393]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:072][393]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.984 Y=1.984 Z=1.984
+[2019.01.29-21.53.38:104][394]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.985 Y=1.985 Z=1.985
+[2019.01.29-21.53.38:138][395]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.985 Y=1.985 Z=1.985
+[2019.01.29-21.53.38:170][396]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:170][396]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.986 Y=1.986 Z=1.986
+[2019.01.29-21.53.38:204][397]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.986 Y=1.986 Z=1.986
+[2019.01.29-21.53.38:237][398]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.987 Y=1.987 Z=1.987
+[2019.01.29-21.53.38:270][399]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:270][399]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.987 Y=1.987 Z=1.987
+[2019.01.29-21.53.38:304][400]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.987 Y=1.987 Z=1.987
+[2019.01.29-21.53.38:337][401]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.988 Y=1.988 Z=1.988
+[2019.01.29-21.53.38:370][402]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:370][402]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.988 Y=1.988 Z=1.988
+[2019.01.29-21.53.38:402][403]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.989 Y=1.989 Z=1.989
+[2019.01.29-21.53.38:436][404]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.989 Y=1.989 Z=1.989
+[2019.01.29-21.53.38:468][405]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:468][405]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.989 Y=1.989 Z=1.989
+[2019.01.29-21.53.38:502][406]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.990 Y=1.990 Z=1.990
+[2019.01.29-21.53.38:535][407]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.990 Y=1.990 Z=1.990
+[2019.01.29-21.53.38:568][408]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:569][408]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.990 Y=1.990 Z=1.990
+[2019.01.29-21.53.38:601][409]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.991 Y=1.991 Z=1.991
+[2019.01.29-21.53.38:634][410]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.991 Y=1.991 Z=1.991
+[2019.01.29-21.53.38:668][411]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:669][411]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.991 Y=1.991 Z=1.991
+[2019.01.29-21.53.38:700][412]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.992 Y=1.992 Z=1.992
+[2019.01.29-21.53.38:733][413]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.992 Y=1.992 Z=1.992
+[2019.01.29-21.53.38:767][414]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:769][414]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.992 Y=1.992 Z=1.992
+[2019.01.29-21.53.38:801][415]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.992 Y=1.992 Z=1.992
+[2019.01.29-21.53.38:834][416]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.993 Y=1.993 Z=1.993
+[2019.01.29-21.53.38:868][417]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:868][417]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.993 Y=1.993 Z=1.993
+[2019.01.29-21.53.38:901][418]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.993 Y=1.993 Z=1.993
+[2019.01.29-21.53.38:934][419]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.993 Y=1.993 Z=1.993
+[2019.01.29-21.53.38:968][420]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.38:968][420]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.994 Y=1.994 Z=1.994
+[2019.01.29-21.53.39:001][421]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.994 Y=1.994 Z=1.994
+[2019.01.29-21.53.39:035][422]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.994 Y=1.994 Z=1.994
+[2019.01.29-21.53.39:068][423]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:068][423]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.994 Y=1.994 Z=1.994
+[2019.01.29-21.53.39:101][424]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.994 Y=1.994 Z=1.994
+[2019.01.29-21.53.39:134][425]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.995 Y=1.995 Z=1.995
+[2019.01.29-21.53.39:167][426]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:167][426]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.995 Y=1.995 Z=1.995
+[2019.01.29-21.53.39:200][427]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.995 Y=1.995 Z=1.995
+[2019.01.29-21.53.39:233][428]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.995 Y=1.995 Z=1.995
+[2019.01.29-21.53.39:267][429]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:267][429]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.995 Y=1.995 Z=1.995
+[2019.01.29-21.53.39:300][430]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.995 Y=1.995 Z=1.995
+[2019.01.29-21.53.39:333][431]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.996 Y=1.996 Z=1.996
+[2019.01.29-21.53.39:367][432]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:367][432]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.996 Y=1.996 Z=1.996
+[2019.01.29-21.53.39:400][433]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.996 Y=1.996 Z=1.996
+[2019.01.29-21.53.39:433][434]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.996 Y=1.996 Z=1.996
+[2019.01.29-21.53.39:467][435]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:467][435]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.996 Y=1.996 Z=1.996
+[2019.01.29-21.53.39:501][436]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.996 Y=1.996 Z=1.996
+[2019.01.29-21.53.39:534][437]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.996 Y=1.996 Z=1.996
+[2019.01.29-21.53.39:567][438]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:567][438]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:600][439]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:633][440]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:667][441]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:667][441]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:700][442]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:733][443]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:767][444]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:767][444]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:800][445]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:833][446]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:865][447]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:865][447]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.997 Y=1.997 Z=1.997
+[2019.01.29-21.53.39:898][448]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.39:933][449]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.39:965][450]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.39:965][450]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:000][451]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:032][452]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:065][453]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:065][453]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:099][454]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:133][455]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:166][456]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:166][456]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:199][457]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:232][458]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:265][459]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:265][459]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:299][460]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:331][461]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:364][462]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:364][462]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.998 Y=1.998 Z=1.998
+[2019.01.29-21.53.40:397][463]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:430][464]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:464][465]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:464][465]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:499][466]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:531][467]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:565][468]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:565][468]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:599][469]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:632][470]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:666][471]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:666][471]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:700][472]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:733][473]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:767][474]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:768][474]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:800][475]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:832][476]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:866][477]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:866][477]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:899][478]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:933][479]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.40:966][480]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.40:966][480]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:001][481]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:033][482]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:066][483]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:066][483]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:100][484]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:134][485]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:168][486]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:168][486]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:202][487]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:235][488]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:269][489]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:269][489]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:303][490]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:335][491]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:369][492]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:369][492]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:403][493]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:437][494]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:470][495]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:470][495]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=1.999 Y=1.999 Z=1.999
+[2019.01.29-21.53.41:504][496]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:537][497]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:570][498]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:570][498]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:603][499]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:636][500]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:669][501]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:670][501]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:702][502]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:735][503]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:768][504]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:768][504]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:801][505]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:834][506]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:868][507]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:870][507]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:902][508]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:936][509]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.41:969][510]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.41:970][510]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:003][511]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:036][512]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:070][513]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:071][513]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:103][514]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:137][515]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:169][516]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:169][516]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:203][517]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:236][518]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:270][519]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:270][519]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:304][520]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:337][521]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:371][522]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:371][522]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:404][523]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:436][524]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:469][525]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:469][525]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:502][526]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:536][527]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:569][528]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:569][528]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:603][529]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:636][530]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:669][531]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:669][531]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:702][532]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:735][533]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:769][534]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:769][534]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:803][535]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:836][536]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:869][537]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:869][537]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:903][538]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:937][539]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.42:971][540]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.42:971][540]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:005][541]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:038][542]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:072][543]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:072][543]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:105][544]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:139][545]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:173][546]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:173][546]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:206][547]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:240][548]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:273][549]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:273][549]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:307][550]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:340][551]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:373][552]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:373][552]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:407][553]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:440][554]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:474][555]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:475][555]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:509][556]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:541][557]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:574][558]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:574][558]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:607][559]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:640][560]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:674][561]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:674][561]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:706][562]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:739][563]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:772][564]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:772][564]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:806][565]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:840][566]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:874][567]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:874][567]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:906][568]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:941][569]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.43:973][570]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.43:973][570]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:007][571]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:041][572]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:074][573]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:074][573]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:107][574]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:140][575]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:174][576]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:175][576]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:207][577]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:240][578]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:274][579]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:275][579]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:309][580]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:341][581]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:375][582]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:375][582]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:409][583]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:442][584]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:475][585]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:475][585]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:508][586]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:541][587]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:574][588]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:574][588]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:607][589]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:641][590]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:675][591]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:675][591]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:709][592]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:743][593]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:776][594]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:776][594]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:810][595]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:843][596]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:876][597]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:878][597]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:910][598]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:945][599]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.44:978][600]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.44:978][600]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:012][601]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:045][602]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:079][603]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:079][603]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:112][604]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:145][605]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:179][606]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:179][606]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:213][607]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:246][608]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:280][609]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:280][609]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:313][610]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:347][611]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:348][611]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:381][612]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:414][613]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:448][614]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:481][615]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:481][615]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:514][616]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:548][617]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:581][618]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:581][618]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:614][619]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:647][620]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:681][621]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:681][621]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:714][622]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:747][623]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:780][624]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:780][624]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:814][625]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:847][626]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:847][626]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.000 Y=2.000 Z=2.000
+[2019.01.29-21.53.45:881][627]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.067 Y=2.067 Z=2.067
+[2019.01.29-21.53.45:914][628]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.098 Y=2.098 Z=2.098
+[2019.01.29-21.53.45:948][629]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.127 Y=2.127 Z=2.127
+[2019.01.29-21.53.45:981][630]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.45:981][630]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.158 Y=2.158 Z=2.158
+[2019.01.29-21.53.46:015][631]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.186 Y=2.186 Z=2.186
+[2019.01.29-21.53.46:048][632]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.212 Y=2.212 Z=2.212
+[2019.01.29-21.53.46:082][633]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:082][633]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.240 Y=2.240 Z=2.240
+[2019.01.29-21.53.46:116][634]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.265 Y=2.265 Z=2.265
+[2019.01.29-21.53.46:150][635]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.291 Y=2.291 Z=2.291
+[2019.01.29-21.53.46:183][636]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:183][636]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.313 Y=2.313 Z=2.313
+[2019.01.29-21.53.46:217][637]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.337 Y=2.337 Z=2.337
+[2019.01.29-21.53.46:251][638]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:251][638]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.360 Y=2.360 Z=2.360
+[2019.01.29-21.53.46:284][639]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.380 Y=2.380 Z=2.380
+[2019.01.29-21.53.46:318][640]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.402 Y=2.402 Z=2.402
+[2019.01.29-21.53.46:351][641]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:352][641]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.421 Y=2.421 Z=2.421
+[2019.01.29-21.53.46:384][642]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.440 Y=2.440 Z=2.440
+[2019.01.29-21.53.46:416][643]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.458 Y=2.458 Z=2.458
+[2019.01.29-21.53.46:449][644]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.476 Y=2.476 Z=2.476
+[2019.01.29-21.53.46:482][645]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:483][645]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.494 Y=2.494 Z=2.494
+[2019.01.29-21.53.46:516][646]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.510 Y=2.510 Z=2.510
+[2019.01.29-21.53.46:548][647]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.526 Y=2.526 Z=2.526
+[2019.01.29-21.53.46:581][648]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:581][648]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.542 Y=2.542 Z=2.542
+[2019.01.29-21.53.46:614][649]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.557 Y=2.557 Z=2.557
+[2019.01.29-21.53.46:648][650]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.572 Y=2.572 Z=2.572
+[2019.01.29-21.53.46:681][651]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:681][651]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.587 Y=2.587 Z=2.587
+[2019.01.29-21.53.46:714][652]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.600 Y=2.600 Z=2.600
+[2019.01.29-21.53.46:748][653]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.613 Y=2.613 Z=2.613
+[2019.01.29-21.53.46:781][654]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:781][654]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.626 Y=2.626 Z=2.626
+[2019.01.29-21.53.46:814][655]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.638 Y=2.638 Z=2.638
+[2019.01.29-21.53.46:847][656]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.651 Y=2.651 Z=2.651
+[2019.01.29-21.53.46:880][657]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:880][657]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.662 Y=2.662 Z=2.662
+[2019.01.29-21.53.46:913][658]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.673 Y=2.673 Z=2.673
+[2019.01.29-21.53.46:946][659]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.684 Y=2.684 Z=2.684
+[2019.01.29-21.53.46:979][660]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.46:979][660]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.695 Y=2.695 Z=2.695
+[2019.01.29-21.53.47:013][661]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.705 Y=2.705 Z=2.705
+[2019.01.29-21.53.47:046][662]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.715 Y=2.715 Z=2.715
+[2019.01.29-21.53.47:080][663]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:080][663]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.724 Y=2.724 Z=2.724
+[2019.01.29-21.53.47:113][664]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.733 Y=2.733 Z=2.733
+[2019.01.29-21.53.47:147][665]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.743 Y=2.743 Z=2.743
+[2019.01.29-21.53.47:181][666]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:182][666]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.751 Y=2.751 Z=2.751
+[2019.01.29-21.53.47:214][667]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.759 Y=2.759 Z=2.759
+[2019.01.29-21.53.47:248][668]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.768 Y=2.768 Z=2.768
+[2019.01.29-21.53.47:280][669]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:280][669]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.775 Y=2.775 Z=2.775
+[2019.01.29-21.53.47:313][670]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.782 Y=2.782 Z=2.782
+[2019.01.29-21.53.47:347][671]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.790 Y=2.790 Z=2.790
+[2019.01.29-21.53.47:380][672]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:380][672]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.797 Y=2.797 Z=2.797
+[2019.01.29-21.53.47:413][673]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.804 Y=2.804 Z=2.804
+[2019.01.29-21.53.47:447][674]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.810 Y=2.810 Z=2.810
+[2019.01.29-21.53.47:480][675]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:480][675]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.816 Y=2.816 Z=2.816
+[2019.01.29-21.53.47:513][676]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.822 Y=2.822 Z=2.822
+[2019.01.29-21.53.47:547][677]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.829 Y=2.829 Z=2.829
+[2019.01.29-21.53.47:580][678]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:580][678]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.834 Y=2.834 Z=2.834
+[2019.01.29-21.53.47:613][679]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.840 Y=2.840 Z=2.840
+[2019.01.29-21.53.47:646][680]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.845 Y=2.845 Z=2.845
+[2019.01.29-21.53.47:679][681]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:679][681]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.850 Y=2.850 Z=2.850
+[2019.01.29-21.53.47:712][682]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.855 Y=2.855 Z=2.855
+[2019.01.29-21.53.47:745][683]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.860 Y=2.860 Z=2.860
+[2019.01.29-21.53.47:777][684]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:777][684]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.864 Y=2.864 Z=2.864
+[2019.01.29-21.53.47:811][685]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.869 Y=2.869 Z=2.869
+[2019.01.29-21.53.47:845][686]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.873 Y=2.873 Z=2.873
+[2019.01.29-21.53.47:878][687]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:878][687]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.877 Y=2.877 Z=2.877
+[2019.01.29-21.53.47:911][688]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.881 Y=2.881 Z=2.881
+[2019.01.29-21.53.47:943][689]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.885 Y=2.885 Z=2.885
+[2019.01.29-21.53.47:976][690]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.47:976][690]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.889 Y=2.889 Z=2.889
+[2019.01.29-21.53.48:010][691]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.893 Y=2.893 Z=2.893
+[2019.01.29-21.53.48:043][692]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.896 Y=2.896 Z=2.896
+[2019.01.29-21.53.48:077][693]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:077][693]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.900 Y=2.900 Z=2.900
+[2019.01.29-21.53.48:110][694]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.903 Y=2.903 Z=2.903
+[2019.01.29-21.53.48:144][695]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.907 Y=2.907 Z=2.907
+[2019.01.29-21.53.48:177][696]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:177][696]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.910 Y=2.910 Z=2.910
+[2019.01.29-21.53.48:211][697]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.913 Y=2.913 Z=2.913
+[2019.01.29-21.53.48:245][698]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.916 Y=2.916 Z=2.916
+[2019.01.29-21.53.48:279][699]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:279][699]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.919 Y=2.919 Z=2.919
+[2019.01.29-21.53.48:313][700]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.921 Y=2.921 Z=2.921
+[2019.01.29-21.53.48:346][701]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.924 Y=2.924 Z=2.924
+[2019.01.29-21.53.48:379][702]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:379][702]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.927 Y=2.927 Z=2.927
+[2019.01.29-21.53.48:412][703]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.929 Y=2.929 Z=2.929
+[2019.01.29-21.53.48:445][704]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.931 Y=2.931 Z=2.931
+[2019.01.29-21.53.48:479][705]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:479][705]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.934 Y=2.934 Z=2.934
+[2019.01.29-21.53.48:513][706]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.936 Y=2.936 Z=2.936
+[2019.01.29-21.53.48:546][707]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.938 Y=2.938 Z=2.938
+[2019.01.29-21.53.48:580][708]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:580][708]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.940 Y=2.940 Z=2.940
+[2019.01.29-21.53.48:614][709]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.942 Y=2.942 Z=2.942
+[2019.01.29-21.53.48:648][710]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.944 Y=2.944 Z=2.944
+[2019.01.29-21.53.48:680][711]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:680][711]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.946 Y=2.946 Z=2.946
+[2019.01.29-21.53.48:714][712]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.948 Y=2.948 Z=2.948
+[2019.01.29-21.53.48:747][713]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.949 Y=2.949 Z=2.949
+[2019.01.29-21.53.48:780][714]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:783][714]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.951 Y=2.951 Z=2.951
+[2019.01.29-21.53.48:814][715]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.953 Y=2.953 Z=2.953
+[2019.01.29-21.53.48:848][716]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:848][716]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.954 Y=2.954 Z=2.954
+[2019.01.29-21.53.48:881][717]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.956 Y=2.956 Z=2.956
+[2019.01.29-21.53.48:916][718]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.957 Y=2.957 Z=2.957
+[2019.01.29-21.53.48:949][719]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.959 Y=2.959 Z=2.959
+[2019.01.29-21.53.48:982][720]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.48:982][720]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.960 Y=2.960 Z=2.960
+[2019.01.29-21.53.49:016][721]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.962 Y=2.962 Z=2.962
+[2019.01.29-21.53.49:049][722]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.963 Y=2.963 Z=2.963
+[2019.01.29-21.53.49:082][723]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:082][723]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.964 Y=2.964 Z=2.964
+[2019.01.29-21.53.49:116][724]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.965 Y=2.965 Z=2.965
+[2019.01.29-21.53.49:151][725]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.966 Y=2.966 Z=2.966
+[2019.01.29-21.53.49:183][726]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:183][726]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.968 Y=2.968 Z=2.968
+[2019.01.29-21.53.49:216][727]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.969 Y=2.969 Z=2.969
+[2019.01.29-21.53.49:250][728]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.970 Y=2.970 Z=2.970
+[2019.01.29-21.53.49:283][729]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:283][729]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.971 Y=2.971 Z=2.971
+[2019.01.29-21.53.49:316][730]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.972 Y=2.972 Z=2.972
+[2019.01.29-21.53.49:350][731]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:353][731]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.973 Y=2.973 Z=2.973
+[2019.01.29-21.53.49:383][732]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.973 Y=2.973 Z=2.973
+[2019.01.29-21.53.49:417][733]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.974 Y=2.974 Z=2.974
+[2019.01.29-21.53.49:450][734]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.975 Y=2.975 Z=2.975
+[2019.01.29-21.53.49:483][735]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:483][735]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.976 Y=2.976 Z=2.976
+[2019.01.29-21.53.49:516][736]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.977 Y=2.977 Z=2.977
+[2019.01.29-21.53.49:549][737]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.978 Y=2.978 Z=2.978
+[2019.01.29-21.53.49:583][738]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:583][738]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.978 Y=2.978 Z=2.978
+[2019.01.29-21.53.49:617][739]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.979 Y=2.979 Z=2.979
+[2019.01.29-21.53.49:651][740]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.980 Y=2.980 Z=2.980
+[2019.01.29-21.53.49:684][741]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:684][741]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.980 Y=2.980 Z=2.980
+[2019.01.29-21.53.49:718][742]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.981 Y=2.981 Z=2.981
+[2019.01.29-21.53.49:751][743]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.982 Y=2.982 Z=2.982
+[2019.01.29-21.53.49:784][744]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:784][744]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.982 Y=2.982 Z=2.982
+[2019.01.29-21.53.49:817][745]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.983 Y=2.983 Z=2.983
+[2019.01.29-21.53.49:851][746]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:851][746]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.984 Y=2.984 Z=2.984
+[2019.01.29-21.53.49:884][747]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.984 Y=2.984 Z=2.984
+[2019.01.29-21.53.49:916][748]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.985 Y=2.985 Z=2.985
+[2019.01.29-21.53.49:950][749]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.985 Y=2.985 Z=2.985
+[2019.01.29-21.53.49:984][750]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.49:984][750]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.986 Y=2.986 Z=2.986
+[2019.01.29-21.53.50:018][751]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.986 Y=2.986 Z=2.986
+[2019.01.29-21.53.50:052][752]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.987 Y=2.987 Z=2.987
+[2019.01.29-21.53.50:085][753]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:085][753]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.987 Y=2.987 Z=2.987
+[2019.01.29-21.53.50:118][754]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.987 Y=2.987 Z=2.987
+[2019.01.29-21.53.50:152][755]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.988 Y=2.988 Z=2.988
+[2019.01.29-21.53.50:185][756]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:185][756]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.988 Y=2.988 Z=2.988
+[2019.01.29-21.53.50:218][757]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.989 Y=2.989 Z=2.989
+[2019.01.29-21.53.50:252][758]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:253][758]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.989 Y=2.989 Z=2.989
+[2019.01.29-21.53.50:286][759]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.989 Y=2.989 Z=2.989
+[2019.01.29-21.53.50:320][760]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.990 Y=2.990 Z=2.990
+[2019.01.29-21.53.50:353][761]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:353][761]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.990 Y=2.990 Z=2.990
+[2019.01.29-21.53.50:386][762]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.990 Y=2.990 Z=2.990
+[2019.01.29-21.53.50:419][763]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.991 Y=2.991 Z=2.991
+[2019.01.29-21.53.50:454][764]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.991 Y=2.991 Z=2.991
+[2019.01.29-21.53.50:486][765]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:486][765]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.991 Y=2.991 Z=2.991
+[2019.01.29-21.53.50:519][766]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.992 Y=2.992 Z=2.992
+[2019.01.29-21.53.50:552][767]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.992 Y=2.992 Z=2.992
+[2019.01.29-21.53.50:585][768]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:585][768]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.992 Y=2.992 Z=2.992
+[2019.01.29-21.53.50:620][769]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.992 Y=2.992 Z=2.992
+[2019.01.29-21.53.50:653][770]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.993 Y=2.993 Z=2.993
+[2019.01.29-21.53.50:687][771]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:687][771]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.993 Y=2.993 Z=2.993
+[2019.01.29-21.53.50:720][772]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.993 Y=2.993 Z=2.993
+[2019.01.29-21.53.50:753][773]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:753][773]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.993 Y=2.993 Z=2.993
+[2019.01.29-21.53.50:786][774]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.994 Y=2.994 Z=2.994
+[2019.01.29-21.53.50:819][775]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.994 Y=2.994 Z=2.994
+[2019.01.29-21.53.50:852][776]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:852][776]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.994 Y=2.994 Z=2.994
+[2019.01.29-21.53.50:885][777]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.994 Y=2.994 Z=2.994
+[2019.01.29-21.53.50:919][778]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.994 Y=2.994 Z=2.994
+[2019.01.29-21.53.50:952][779]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.995 Y=2.995 Z=2.995
+[2019.01.29-21.53.50:985][780]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.50:985][780]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.995 Y=2.995 Z=2.995
+[2019.01.29-21.53.51:018][781]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.995 Y=2.995 Z=2.995
+[2019.01.29-21.53.51:052][782]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.995 Y=2.995 Z=2.995
+[2019.01.29-21.53.51:085][783]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:085][783]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.995 Y=2.995 Z=2.995
+[2019.01.29-21.53.51:118][784]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.995 Y=2.995 Z=2.995
+[2019.01.29-21.53.51:151][785]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.996 Y=2.996 Z=2.996
+[2019.01.29-21.53.51:184][786]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:184][786]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.996 Y=2.996 Z=2.996
+[2019.01.29-21.53.51:218][787]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.996 Y=2.996 Z=2.996
+[2019.01.29-21.53.51:252][788]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:252][788]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.996 Y=2.996 Z=2.996
+[2019.01.29-21.53.51:286][789]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.996 Y=2.996 Z=2.996
+[2019.01.29-21.53.51:319][790]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.996 Y=2.996 Z=2.996
+[2019.01.29-21.53.51:352][791]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:352][791]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.996 Y=2.996 Z=2.996
+[2019.01.29-21.53.51:386][792]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:419][793]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:453][794]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:487][795]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:487][795]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:520][796]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:553][797]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:586][798]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:586][798]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:620][799]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:652][800]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:685][801]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:685][801]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.997 Y=2.997 Z=2.997
+[2019.01.29-21.53.51:719][802]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.51:752][803]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:753][803]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.51:785][804]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.51:819][805]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.51:853][806]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:853][806]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.51:886][807]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.51:919][808]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.51:952][809]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.51:986][810]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.51:986][810]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.52:019][811]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.52:053][812]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.52:086][813]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:086][813]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.52:119][814]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.52:153][815]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.52:187][816]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:187][816]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.998 Y=2.998 Z=2.998
+[2019.01.29-21.53.52:220][817]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:253][818]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:253][818]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:286][819]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:319][820]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:353][821]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:354][821]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:387][822]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:419][823]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:453][824]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:486][825]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:486][825]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:520][826]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:553][827]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:586][828]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:586][828]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:619][829]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:652][830]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:686][831]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:686][831]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:722][832]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:754][833]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:754][833]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:787][834]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:820][835]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:853][836]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:853][836]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=2.999 Y=2.999 Z=2.999
+[2019.01.29-21.53.52:886][837]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.064 Y=3.064 Z=3.064
+[2019.01.29-21.53.52:920][838]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.097 Y=3.097 Z=3.097
+[2019.01.29-21.53.52:954][839]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.127 Y=3.127 Z=3.127
+[2019.01.29-21.53.52:987][840]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.52:987][840]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.155 Y=3.155 Z=3.155
+[2019.01.29-21.53.53:020][841]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.183 Y=3.183 Z=3.183
+[2019.01.29-21.53.53:053][842]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.210 Y=3.210 Z=3.210
+[2019.01.29-21.53.53:087][843]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:087][843]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.237 Y=3.237 Z=3.237
+[2019.01.29-21.53.53:120][844]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.262 Y=3.262 Z=3.262
+[2019.01.29-21.53.53:153][845]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.286 Y=3.286 Z=3.286
+[2019.01.29-21.53.53:185][846]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:185][846]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.309 Y=3.309 Z=3.309
+[2019.01.29-21.53.53:220][847]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.333 Y=3.333 Z=3.333
+[2019.01.29-21.53.53:253][848]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:253][848]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.356 Y=3.356 Z=3.356
+[2019.01.29-21.53.53:287][849]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.378 Y=3.378 Z=3.378
+[2019.01.29-21.53.53:320][850]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.398 Y=3.398 Z=3.398
+[2019.01.29-21.53.53:354][851]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:354][851]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.419 Y=3.419 Z=3.419
+[2019.01.29-21.53.53:387][852]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.437 Y=3.437 Z=3.437
+[2019.01.29-21.53.53:420][853]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.456 Y=3.456 Z=3.456
+[2019.01.29-21.53.53:453][854]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.474 Y=3.474 Z=3.474
+[2019.01.29-21.53.53:486][855]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:486][855]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.491 Y=3.491 Z=3.491
+[2019.01.29-21.53.53:519][856]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.509 Y=3.509 Z=3.509
+[2019.01.29-21.53.53:553][857]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.525 Y=3.525 Z=3.525
+[2019.01.29-21.53.53:587][858]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:588][858]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.541 Y=3.541 Z=3.541
+[2019.01.29-21.53.53:621][859]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.557 Y=3.557 Z=3.557
+[2019.01.29-21.53.53:654][860]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.571 Y=3.571 Z=3.571
+[2019.01.29-21.53.53:687][861]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:689][861]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.586 Y=3.586 Z=3.586
+[2019.01.29-21.53.53:720][862]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.599 Y=3.599 Z=3.599
+[2019.01.29-21.53.53:754][863]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:756][863]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.613 Y=3.613 Z=3.613
+[2019.01.29-21.53.53:787][864]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.625 Y=3.625 Z=3.625
+[2019.01.29-21.53.53:820][865]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.638 Y=3.638 Z=3.638
+[2019.01.29-21.53.53:854][866]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:856][866]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.650 Y=3.650 Z=3.650
+[2019.01.29-21.53.53:886][867]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.661 Y=3.661 Z=3.661
+[2019.01.29-21.53.53:919][868]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.673 Y=3.673 Z=3.673
+[2019.01.29-21.53.53:953][869]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.683 Y=3.683 Z=3.683
+[2019.01.29-21.53.53:985][870]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.53:986][870]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.694 Y=3.694 Z=3.694
+[2019.01.29-21.53.54:019][871]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.704 Y=3.704 Z=3.704
+[2019.01.29-21.53.54:052][872]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.714 Y=3.714 Z=3.714
+[2019.01.29-21.53.54:086][873]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:086][873]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.724 Y=3.724 Z=3.724
+[2019.01.29-21.53.54:120][874]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.733 Y=3.733 Z=3.733
+[2019.01.29-21.53.54:154][875]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.742 Y=3.742 Z=3.742
+[2019.01.29-21.53.54:187][876]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:187][876]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.751 Y=3.751 Z=3.751
+[2019.01.29-21.53.54:221][877]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.759 Y=3.759 Z=3.759
+[2019.01.29-21.53.54:254][878]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:254][878]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.767 Y=3.767 Z=3.767
+[2019.01.29-21.53.54:287][879]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.775 Y=3.775 Z=3.775
+[2019.01.29-21.53.54:320][880]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.782 Y=3.782 Z=3.782
+[2019.01.29-21.53.54:354][881]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:354][881]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.790 Y=3.790 Z=3.790
+[2019.01.29-21.53.54:386][882]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.796 Y=3.796 Z=3.796
+[2019.01.29-21.53.54:419][883]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.803 Y=3.803 Z=3.803
+[2019.01.29-21.53.54:452][884]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.810 Y=3.810 Z=3.810
+[2019.01.29-21.53.54:486][885]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:486][885]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.816 Y=3.816 Z=3.816
+[2019.01.29-21.53.54:520][886]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.822 Y=3.822 Z=3.822
+[2019.01.29-21.53.54:553][887]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.828 Y=3.828 Z=3.828
+[2019.01.29-21.53.54:586][888]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:586][888]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.834 Y=3.834 Z=3.834
+[2019.01.29-21.53.54:621][889]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.840 Y=3.840 Z=3.840
+[2019.01.29-21.53.54:653][890]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.845 Y=3.845 Z=3.845
+[2019.01.29-21.53.54:686][891]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:686][891]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.850 Y=3.850 Z=3.850
+[2019.01.29-21.53.54:720][892]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.855 Y=3.855 Z=3.855
+[2019.01.29-21.53.54:756][893]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:756][893]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.860 Y=3.860 Z=3.860
+[2019.01.29-21.53.54:787][894]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.864 Y=3.864 Z=3.864
+[2019.01.29-21.53.54:820][895]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.869 Y=3.869 Z=3.869
+[2019.01.29-21.53.54:853][896]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:853][896]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.874 Y=3.874 Z=3.874
+[2019.01.29-21.53.54:887][897]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.878 Y=3.878 Z=3.878
+[2019.01.29-21.53.54:920][898]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.882 Y=3.882 Z=3.882
+[2019.01.29-21.53.54:953][899]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.886 Y=3.886 Z=3.886
+[2019.01.29-21.53.54:987][900]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.54:987][900]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.889 Y=3.889 Z=3.889
+[2019.01.29-21.53.55:019][901]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.893 Y=3.893 Z=3.893
+[2019.01.29-21.53.55:053][902]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.897 Y=3.897 Z=3.897
+[2019.01.29-21.53.55:085][903]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:085][903]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.900 Y=3.900 Z=3.900
+[2019.01.29-21.53.55:120][904]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.904 Y=3.904 Z=3.904
+[2019.01.29-21.53.55:152][905]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.907 Y=3.907 Z=3.907
+[2019.01.29-21.53.55:186][906]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:186][906]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.910 Y=3.910 Z=3.910
+[2019.01.29-21.53.55:220][907]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.913 Y=3.913 Z=3.913
+[2019.01.29-21.53.55:254][908]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:254][908]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.916 Y=3.916 Z=3.916
+[2019.01.29-21.53.55:287][909]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.919 Y=3.919 Z=3.919
+[2019.01.29-21.53.55:320][910]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.921 Y=3.921 Z=3.921
+[2019.01.29-21.53.55:355][911]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:356][911]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.924 Y=3.924 Z=3.924
+[2019.01.29-21.53.55:388][912]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.927 Y=3.927 Z=3.927
+[2019.01.29-21.53.55:421][913]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.929 Y=3.929 Z=3.929
+[2019.01.29-21.53.55:454][914]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.931 Y=3.931 Z=3.931
+[2019.01.29-21.53.55:487][915]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:487][915]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.934 Y=3.934 Z=3.934
+[2019.01.29-21.53.55:521][916]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.936 Y=3.936 Z=3.936
+[2019.01.29-21.53.55:554][917]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.938 Y=3.938 Z=3.938
+[2019.01.29-21.53.55:587][918]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:587][918]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.940 Y=3.940 Z=3.940
+[2019.01.29-21.53.55:620][919]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.942 Y=3.942 Z=3.942
+[2019.01.29-21.53.55:653][920]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.944 Y=3.944 Z=3.944
+[2019.01.29-21.53.55:686][921]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:686][921]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.946 Y=3.946 Z=3.946
+[2019.01.29-21.53.55:719][922]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.948 Y=3.948 Z=3.948
+[2019.01.29-21.53.55:752][923]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.949 Y=3.949 Z=3.949
+[2019.01.29-21.53.55:785][924]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:785][924]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.951 Y=3.951 Z=3.951
+[2019.01.29-21.53.55:819][925]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.953 Y=3.953 Z=3.953
+[2019.01.29-21.53.55:852][926]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:852][926]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.954 Y=3.954 Z=3.954
+[2019.01.29-21.53.55:885][927]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.956 Y=3.956 Z=3.956
+[2019.01.29-21.53.55:918][928]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.957 Y=3.957 Z=3.957
+[2019.01.29-21.53.55:951][929]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.959 Y=3.959 Z=3.959
+[2019.01.29-21.53.55:984][930]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.55:984][930]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.960 Y=3.960 Z=3.960
+[2019.01.29-21.53.56:018][931]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.961 Y=3.961 Z=3.961
+[2019.01.29-21.53.56:051][932]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.963 Y=3.963 Z=3.963
+[2019.01.29-21.53.56:084][933]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:084][933]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.964 Y=3.964 Z=3.964
+[2019.01.29-21.53.56:117][934]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.965 Y=3.965 Z=3.965
+[2019.01.29-21.53.56:151][935]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.966 Y=3.966 Z=3.966
+[2019.01.29-21.53.56:184][936]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:184][936]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.967 Y=3.967 Z=3.967
+[2019.01.29-21.53.56:218][937]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.968 Y=3.968 Z=3.968
+[2019.01.29-21.53.56:251][938]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.969 Y=3.969 Z=3.969
+[2019.01.29-21.53.56:285][939]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:285][939]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.971 Y=3.971 Z=3.971
+[2019.01.29-21.53.56:317][940]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.971 Y=3.971 Z=3.971
+[2019.01.29-21.53.56:352][941]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:352][941]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.972 Y=3.972 Z=3.972
+[2019.01.29-21.53.56:384][942]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.973 Y=3.973 Z=3.973
+[2019.01.29-21.53.56:418][943]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.974 Y=3.974 Z=3.974
+[2019.01.29-21.53.56:451][944]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.975 Y=3.975 Z=3.975
+[2019.01.29-21.53.56:484][945]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:484][945]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.976 Y=3.976 Z=3.976
+[2019.01.29-21.53.56:518][946]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.977 Y=3.977 Z=3.977
+[2019.01.29-21.53.56:551][947]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.977 Y=3.977 Z=3.977
+[2019.01.29-21.53.56:583][948]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:583][948]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.978 Y=3.978 Z=3.978
+[2019.01.29-21.53.56:616][949]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.979 Y=3.979 Z=3.979
+[2019.01.29-21.53.56:650][950]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.980 Y=3.980 Z=3.980
+[2019.01.29-21.53.56:683][951]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:684][951]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.980 Y=3.980 Z=3.980
+[2019.01.29-21.53.56:717][952]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.981 Y=3.981 Z=3.981
+[2019.01.29-21.53.56:749][953]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.982 Y=3.982 Z=3.982
+[2019.01.29-21.53.56:783][954]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:785][954]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.982 Y=3.982 Z=3.982
+[2019.01.29-21.53.56:816][955]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.983 Y=3.983 Z=3.983
+[2019.01.29-21.53.56:850][956]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:851][956]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.983 Y=3.983 Z=3.983
+[2019.01.29-21.53.56:884][957]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.984 Y=3.984 Z=3.984
+[2019.01.29-21.53.56:917][958]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.984 Y=3.984 Z=3.984
+[2019.01.29-21.53.56:950][959]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.985 Y=3.985 Z=3.985
+[2019.01.29-21.53.56:984][960]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.56:985][960]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.986 Y=3.986 Z=3.986
+[2019.01.29-21.53.57:017][961]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.986 Y=3.986 Z=3.986
+[2019.01.29-21.53.57:051][962]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.986 Y=3.986 Z=3.986
+[2019.01.29-21.53.57:083][963]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:083][963]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.987 Y=3.987 Z=3.987
+[2019.01.29-21.53.57:118][964]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.987 Y=3.987 Z=3.987
+[2019.01.29-21.53.57:152][965]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.988 Y=3.988 Z=3.988
+[2019.01.29-21.53.57:185][966]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:185][966]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.988 Y=3.988 Z=3.988
+[2019.01.29-21.53.57:220][967]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.989 Y=3.989 Z=3.989
+[2019.01.29-21.53.57:252][968]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:252][968]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.989 Y=3.989 Z=3.989
+[2019.01.29-21.53.57:286][969]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.989 Y=3.989 Z=3.989
+[2019.01.29-21.53.57:318][970]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.990 Y=3.990 Z=3.990
+[2019.01.29-21.53.57:351][971]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:351][971]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.990 Y=3.990 Z=3.990
+[2019.01.29-21.53.57:384][972]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.990 Y=3.990 Z=3.990
+[2019.01.29-21.53.57:418][973]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.991 Y=3.991 Z=3.991
+[2019.01.29-21.53.57:451][974]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.991 Y=3.991 Z=3.991
+[2019.01.29-21.53.57:484][975]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:486][975]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.991 Y=3.991 Z=3.991
+[2019.01.29-21.53.57:517][976]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.992 Y=3.992 Z=3.992
+[2019.01.29-21.53.57:550][977]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.992 Y=3.992 Z=3.992
+[2019.01.29-21.53.57:583][978]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:583][978]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.992 Y=3.992 Z=3.992
+[2019.01.29-21.53.57:616][979]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.992 Y=3.992 Z=3.992
+[2019.01.29-21.53.57:650][980]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.993 Y=3.993 Z=3.993
+[2019.01.29-21.53.57:683][981]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:683][981]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.993 Y=3.993 Z=3.993
+[2019.01.29-21.53.57:716][982]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.993 Y=3.993 Z=3.993
+[2019.01.29-21.53.57:749][983]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.993 Y=3.993 Z=3.993
+[2019.01.29-21.53.57:782][984]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:782][984]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.994 Y=3.994 Z=3.994
+[2019.01.29-21.53.57:816][985]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.994 Y=3.994 Z=3.994
+[2019.01.29-21.53.57:850][986]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:851][986]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.994 Y=3.994 Z=3.994
+[2019.01.29-21.53.57:883][987]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.994 Y=3.994 Z=3.994
+[2019.01.29-21.53.57:917][988]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.994 Y=3.994 Z=3.994
+[2019.01.29-21.53.57:951][989]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.995 Y=3.995 Z=3.995
+[2019.01.29-21.53.57:985][990]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.57:985][990]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.995 Y=3.995 Z=3.995
+[2019.01.29-21.53.58:017][991]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.995 Y=3.995 Z=3.995
+[2019.01.29-21.53.58:051][992]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.995 Y=3.995 Z=3.995
+[2019.01.29-21.53.58:083][993]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:083][993]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.995 Y=3.995 Z=3.995
+[2019.01.29-21.53.58:117][994]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.995 Y=3.995 Z=3.995
+[2019.01.29-21.53.58:151][995]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.996 Y=3.996 Z=3.996
+[2019.01.29-21.53.58:184][996]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:185][996]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.996 Y=3.996 Z=3.996
+[2019.01.29-21.53.58:218][997]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.996 Y=3.996 Z=3.996
+[2019.01.29-21.53.58:251][998]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.996 Y=3.996 Z=3.996
+[2019.01.29-21.53.58:284][999]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:284][999]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.996 Y=3.996 Z=3.996
+[2019.01.29-21.53.58:318][  0]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.996 Y=3.996 Z=3.996
+[2019.01.29-21.53.58:352][  1]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:352][  1]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.996 Y=3.996 Z=3.996
+[2019.01.29-21.53.58:385][  2]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:419][  3]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:453][  4]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:486][  5]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:486][  5]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:518][  6]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:552][  7]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:585][  8]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:586][  8]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:619][  9]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:652][ 10]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:686][ 11]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:686][ 11]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.997 Y=3.997 Z=3.997
+[2019.01.29-21.53.58:719][ 12]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.58:752][ 13]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:752][ 13]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.58:785][ 14]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.58:819][ 15]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.58:853][ 16]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:853][ 16]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.58:886][ 17]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.58:919][ 18]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.58:952][ 19]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.58:986][ 20]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.58:986][ 20]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.59:019][ 21]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.59:053][ 22]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.59:085][ 23]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:085][ 23]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.59:119][ 24]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.59:152][ 25]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.59:186][ 26]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:186][ 26]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.998 Y=3.998 Z=3.998
+[2019.01.29-21.53.59:220][ 27]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:253][ 28]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:253][ 28]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:287][ 29]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:320][ 30]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:354][ 31]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:354][ 31]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:388][ 32]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:421][ 33]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:454][ 34]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:488][ 35]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:488][ 35]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:521][ 36]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:554][ 37]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:587][ 38]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:587][ 38]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:620][ 39]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:652][ 40]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:687][ 41]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:687][ 41]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:721][ 42]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:754][ 43]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:754][ 43]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:788][ 44]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:822][ 45]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:855][ 46]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:855][ 46]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:888][ 47]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:921][ 48]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:954][ 49]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.53.59:987][ 50]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.53.59:987][ 50]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:021][ 51]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:055][ 52]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:088][ 53]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:088][ 53]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:122][ 54]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:156][ 55]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:156][ 55]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:189][ 56]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:222][ 57]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:256][ 58]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:256][ 58]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:290][ 59]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=3.999 Y=3.999 Z=3.999
+[2019.01.29-21.54.00:323][ 60]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:356][ 61]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:356][ 61]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:389][ 62]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:423][ 63]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:457][ 64]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:489][ 65]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:489][ 65]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:522][ 66]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:556][ 67]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:589][ 68]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:589][ 68]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:622][ 69]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:655][ 70]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:655][ 70]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:689][ 71]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:723][ 72]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:757][ 73]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:757][ 73]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:791][ 74]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:825][ 75]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:858][ 76]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:858][ 76]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:891][ 77]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:925][ 78]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:959][ 79]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.00:991][ 80]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.00:991][ 80]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:025][ 81]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:058][ 82]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:091][ 83]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:092][ 83]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:124][ 84]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:157][ 85]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:157][ 85]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:190][ 86]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:223][ 87]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:257][ 88]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:258][ 88]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:290][ 89]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:324][ 90]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:357][ 91]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:359][ 91]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:391][ 92]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:425][ 93]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:458][ 94]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:491][ 95]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:491][ 95]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:525][ 96]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:558][ 97]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:591][ 98]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:591][ 98]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:624][ 99]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:657][100]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:658][100]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:691][101]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:725][102]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:757][103]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:757][103]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:790][104]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:823][105]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:858][106]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:859][106]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:890][107]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:923][108]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:956][109]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.01:989][110]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.01:989][110]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:022][111]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:055][112]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:087][113]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:087][113]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:121][114]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:154][115]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:186][116]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:186][116]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:220][117]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:254][118]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:255][118]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:288][119]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:322][120]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:355][121]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:355][121]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:390][122]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:422][123]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:456][124]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:490][125]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:490][125]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:523][126]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:556][127]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:589][128]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:589][128]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:622][129]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:655][130]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:687][131]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:687][131]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:720][132]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:754][133]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:754][133]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:787][134]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:820][135]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:854][136]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:854][136]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:887][137]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:920][138]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:954][139]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.02:988][140]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.02:988][140]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:020][141]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:053][142]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:087][143]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:087][143]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:120][144]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:154][145]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:186][146]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:186][146]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:220][147]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:253][148]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:253][148]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:287][149]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:321][150]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:354][151]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:354][151]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:387][152]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:420][153]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:453][154]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:485][155]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:485][155]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:518][156]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:551][157]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:584][158]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:584][158]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:617][159]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:651][160]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:684][161]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:684][161]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:717][162]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:750][163]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:784][164]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:784][164]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:818][165]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:851][166]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:851][166]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:885][167]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:920][168]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:952][169]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.03:986][170]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.03:986][170]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:020][171]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:054][172]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:087][173]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:087][173]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:121][174]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:155][175]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:155][175]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:189][176]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:222][177]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:256][178]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:256][178]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:289][179]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:323][180]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:356][181]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:356][181]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:388][182]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:422][183]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:456][184]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:489][185]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:489][185]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:522][186]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:556][187]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:589][188]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:590][188]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:623][189]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:657][190]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:657][190]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:690][191]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:724][192]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:757][193]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:757][193]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:790][194]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:823][195]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:857][196]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:857][196]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:890][197]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:923][198]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:956][199]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.04:989][200]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.04:989][200]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:023][201]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:056][202]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:090][203]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:090][203]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:124][204]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:158][205]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:158][205]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:191][206]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:224][207]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:257][208]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:257][208]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:290][209]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:323][210]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:356][211]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:356][211]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:389][212]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:422][213]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:455][214]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:489][215]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:489][215]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:521][216]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:555][217]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:589][218]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:589][218]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:622][219]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:655][220]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:688][221]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:688][221]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:721][222]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:755][223]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:755][223]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:787][224]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:821][225]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:854][226]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:854][226]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:887][227]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:921][228]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:954][229]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.05:988][230]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.05:988][230]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:021][231]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:054][232]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:086][233]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.06:086][233]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:119][234]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:152][235]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:185][236]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.06:185][236]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:219][237]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:253][238]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.06:253][238]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:287][239]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:319][240]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:353][241]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.06:353][241]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:386][242]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:420][243]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:454][244]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:488][245]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.06:488][245]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:521][246]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:554][247]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:587][248]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.06:587][248]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:622][249]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:654][250]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:689][251]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.06:690][251]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:722][252]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:755][253]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:788][254]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:822][255]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:853][256]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:887][257]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:920][258]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:953][259]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.06:986][260]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:019][261]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:052][262]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:086][263]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:119][264]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:152][265]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:185][266]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:218][267]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:252][268]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:285][269]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:319][270]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:319][270]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:320][270]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:321][270]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:321][270]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:352][271]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:385][272]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:387][272]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:418][273]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:451][274]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:484][275]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:484][275]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:517][276]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:550][277]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:583][278]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:583][278]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:617][279]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:651][280]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:684][281]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:684][281]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:718][282]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:750][283]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:783][284]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:783][284]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:818][285]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:852][286]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:884][287]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:884][287]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:917][288]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:950][289]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.07:984][290]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-21.54.07:984][290]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.08:018][291]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.08:051][292]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.08:084][293]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.08:117][294]LogBlueprintUserMessages: [Wolfy_Char_C_0] X=4.000 Y=4.000 Z=4.000
+[2019.01.29-21.54.08:150][295]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.01.29-21.54.08:150][295]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54710, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-8DABD35849C43FD9C9191D808FA13DEB
+[2019.01.29-21.54.08:151][295]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54710, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-8DABD35849C43FD9C9191D808FA13DEB, Channels: 19, Time: 2019.01.29-21.54.08
+[2019.01.29-21.54.08:152][295]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54710, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-8DABD35849C43FD9C9191D808FA13DEB
+[2019.01.29-21.54.08:153][295]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)

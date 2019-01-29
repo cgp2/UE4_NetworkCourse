@@ -1,0 +1,788 @@
+﻿Log file open, 01/30/19 01:16:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 9 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.090901
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.031s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-0
+LogInit: Engine Version: 4.21.2-0+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-0+++UE4+Release-4.21
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 29 2019 21:54:40
+LogInit: Compiled with Visual C++: 19.16.27026.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: -log
+LogInit: Base Directory: D:/Studing/PRojects/NetworkUE4/Builds/WindowsNoEditor/AnimeWolfy/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: false
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.29-22.16.29:782][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.01.29-22.16.29:783][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.29-22.16.29:783][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-22.16.29:784][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.29-22.16.29:785][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-22.16.29:786][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-22.16.29:786][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.29-22.16.29:786][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.29-22.16.29:787][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.29-22.16.29:787][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.29-22.16.29:787][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.29-22.16.29:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.29-22.16.29:788][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.29-22.16.29:788][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.29-22.16.29:788][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.29-22.16.29:789][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.29-22.16.29:790][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.29-22.16.29:790][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.29-22.16.29:790][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.29-22.16.29:790][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-22.16.29:791][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.29-22.16.29:791][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.29-22.16.29:792][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.29-22.16.29:792][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.29-22.16.29:792][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.29-22.16.29:793][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.29-22.16.29:793][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.29-22.16.29:793][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.29-22.16.29:794][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.29-22.16.29:797][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.29-22.16.29:797][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.29-22.16.29:798][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.29-22.16.29:798][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.29-22.16.29:798][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.29-22.16.29:799][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-22.16.29:799][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:800][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-22.16.29:800][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-22.16.29:800][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:801][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-22.16.29:801][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:801][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-22.16.29:802][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-22.16.29:802][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-22.16.29:802][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-22.16.29:803][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-22.16.29:803][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-22.16.29:804][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-22.16.29:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-22.16.29:804][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-22.16.29:805][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-22.16.29:805][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-22.16.29:805][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-22.16.29:806][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-22.16.29:810][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-22.16.29:810][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-22.16.29:811][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-22.16.29:811][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-22.16.29:811][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-22.16.29:812][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:812][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-22.16.29:812][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-22.16.29:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-22.16.29:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-22.16.29:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-22.16.29:814][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-22.16.29:814][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-22.16.29:814][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-22.16.29:815][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-22.16.29:815][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-22.16.29:815][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-22.16.29:815][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-22.16.29:816][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-22.16.29:816][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-22.16.29:816][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-22.16.29:817][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-22.16.29:817][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-22.16.29:817][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-22.16.29:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-22.16.29:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-22.16.29:818][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-22.16.29:818][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-22.16.29:819][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-22.16.29:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-22.16.29:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-22.16.29:824][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-22.16.29:824][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-22.16.29:825][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-22.16.29:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-22.16.29:827][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-22.16.29:827][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:827][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-22.16.29:827][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-22.16.29:828][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-22.16.29:828][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-22.16.29:828][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-22.16.29:829][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-22.16.29:829][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-22.16.29:829][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-22.16.29:830][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:832][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-22.16.29:832][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-22.16.29:833][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-22.16.29:833][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-22.16.29:833][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-22.16.29:833][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-22.16.29:834][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-22.16.29:834][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-22.16.29:835][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-22.16.29:835][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-22.16.29:835][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-22.16.29:835][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-22.16.29:836][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-22.16.29:836][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:836][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-22.16.29:837][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-22.16.29:837][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2019.01.29-22.16.29:837][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2019.01.29-22.16.29:841][  0]LogHAL: Display: Platform has ~ 16 GB [17118220288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.29-22.16.29:843][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2019.01.29-22.16.29:844][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.29-22.16.29:844][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.29-22.16.29:845][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:845][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-22.16.29:845][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-22.16.29:846][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:846][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-22.16.29:846][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:847][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-22.16.29:847][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-22.16.29:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-22.16.29:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-22.16.29:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-22.16.29:848][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-22.16.29:849][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-22.16.29:849][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-22.16.29:850][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-22.16.29:850][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-22.16.29:850][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-22.16.29:850][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-22.16.29:851][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-22.16.29:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-22.16.29:851][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-22.16.29:852][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-22.16.29:855][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-22.16.29:855][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-22.16.29:855][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:856][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-22.16.29:856][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-22.16.29:857][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-22.16.29:857][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-22.16.29:857][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-22.16.29:858][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-22.16.29:858][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-22.16.29:858][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-22.16.29:859][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-22.16.29:859][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-22.16.29:859][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-22.16.29:860][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-22.16.29:860][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-22.16.29:860][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-22.16.29:860][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-22.16.29:861][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-22.16.29:861][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-22.16.29:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-22.16.29:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-22.16.29:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-22.16.29:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-22.16.29:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-22.16.29:865][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-22.16.29:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-22.16.29:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-22.16.29:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-22.16.29:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-22.16.29:868][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-22.16.29:868][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-22.16.29:869][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-22.16.29:869][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:869][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-22.16.29:870][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-22.16.29:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-22.16.29:870][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-22.16.29:871][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-22.16.29:871][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-22.16.29:871][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-22.16.29:871][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-22.16.29:872][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:872][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-22.16.29:872][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-22.16.29:873][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-22.16.29:873][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-22.16.29:873][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-22.16.29:873][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-22.16.29:874][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-22.16.29:877][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-22.16.29:877][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-22.16.29:878][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-22.16.29:878][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-22.16.29:878][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-22.16.29:879][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-22.16.29:879][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Scalability.ini]
+[2019.01.29-22.16.29:879][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-22.16.29:880][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-22.16.29:880][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.29-22.16.29:880][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.29-22.16.29:881][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../AnimeWolfy/Saved/Config/WindowsServer/Engine.ini]
+[2019.01.29-22.16.29:881][  0]LogInit: Computer: DESKTOP-PF2V43L
+[2019.01.29-22.16.29:881][  0]LogInit: User: Tinki
+[2019.01.29-22.16.29:882][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.29-22.16.29:882][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.29-22.16.29:882][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.29-22.16.29:882][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2019.01.29-22.16.29:883][  0]LogMemory: Process Physical Memory: 53.44 MB used, 53.45 MB peak
+[2019.01.29-22.16.29:883][  0]LogMemory: Process Virtual Memory: 63.05 MB used, 63.05 MB peak
+[2019.01.29-22.16.29:883][  0]LogMemory: Physical Memory: 12532.93 MB used,  3792.28 MB free, 16325.21 MB total
+[2019.01.29-22.16.29:884][  0]LogMemory: Virtual Memory: 4426.79 MB used,  134213304.00 MB free, 134217728.00 MB total
+[2019.01.29-22.16.29:894][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.29-22.16.29:894][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.29-22.16.29:895][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2019.01.29-22.16.29:895][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2019.01.29-22.16.29:911][  0]LogStreaming: Display: Took  0.017s to InitEngineTextLocalization.
+[2019.01.29-22.16.29:914][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.29-22.16.29:914][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.29-22.16.29:914][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2019.01.29-22.16.29:915][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2019.01.29-22.16.29:915][  0]LogStreaming: Display: Took  0.002s to InitGameTextLocalization.
+[2019.01.29-22.16.29:922][  0]LogAssetRegistry: FAssetRegistry took 0.0066 seconds to start up
+[2019.01.29-22.16.29:986][  0]LogStreaming: Display: Flushing async loaders.
+[2019.01.29-22.16.29:991][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.005264 seconds
+[2019.01.29-22.16.29:992][  0]LogPakFile: New pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak added to pak precacher.
+[2019.01.29-22.16.29:995][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2019.01.29-22.16.30:002][  0]LogNetVersion: AnimeWolfy 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3604432672)
+[2019.01.29-22.16.30:087][  0]LogUObjectArray: 34939 objects as part of root set at end of initial load.
+[2019.01.29-22.16.30:088][  0]LogUObjectAllocator: 5215640 out of 0 bytes used by permanent object pool.
+[2019.01.29-22.16.30:089][  0]LogUObjectArray: CloseDisregardForGC: 34939/0 objects in disregard for GC pool
+[2019.01.29-22.16.30:191][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.29-22.16.30:191][  0]LogOcInput: OculusInput pre-init called
+[2019.01.29-22.16.30:204][  0]LogEngine: Initializing Engine...
+[2019.01.29-22.16.30:204][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-22.16.30:205][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-22.16.30:205][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-22.16.30:206][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-22.16.30:247][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.29-22.16.30:247][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.29-22.16.30:250][  0]LogInit: Texture streaming: Disabled
+[2019.01.29-22.16.30:316][  0]LogInit: Display: Game Engine Initialized.
+[2019.01.29-22.16.30:316][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.29-22.16.30:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-22.16.30:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-22.16.30:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-22.16.30:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-22.16.30:326][  0]LogInit: Display: Starting Game.
+[2019.01.29-22.16.30:327][  0]LogNet: Browse: /Game/Maps/TestMap?Name=Player
+[2019.01.29-22.16.30:328][  0]LogLoad: LoadMap: /Game/Maps/TestMap?Name=Player
+[2019.01.29-22.16.30:366][  0]LogAIModule: Creating AISystem for world TestMap
+[2019.01.29-22.16.30:367][  0]LogLoad: Game class is 'MultGameMode_C'
+[2019.01.29-22.16.30:368][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.01.29-22.16.30:369][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.01.29-22.16.30:369][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.01.29-22.16.30:370][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.01.29-22.16.30:370][  0]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.01.29-22.16.30:370][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.01.29-22.16.30:372][  0]LogInit: WinSock: I am DESKTOP-PF2V43L (192.168.1.4:0)
+[2019.01.29-22.16.30:372][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.29-22.16.30:373][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2019.01.29-22.16.30:374][  0]LogWorld: Bringing World /Game/Maps/TestMap.TestMap up for play (max tick rate 30) at 2019.01.30-01.16.30
+[2019.01.29-22.16.30:374][  0]LogWorld: Bringing up level for play took: 0.000870
+[2019.01.29-22.16.30:374][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.29-22.16.30:375][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.29-22.16.30:375][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.01.29-22.16.30:376][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.01.29-22.16.30:378][  0]LogLoad: Took 0.050230 seconds to LoadMap(/Game/Maps/TestMap)
+[2019.01.29-22.16.30:378][  0]LogLoad: (Engine Initialization) Total time: 0.94 seconds
+[2019.01.29-22.16.33:415][ 89]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+GameArea_C.SpawnFood
+MultGameMode_C.SpawnFood
+MultGameMode_C.ExecuteUbergraph_MultGameMode
+MultGameMode_C.ReceiveTick
+
+[2019.01.29-22.16.33:420][ 89]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2019.01.29-22.16.33:421][ 89]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.29-22.16.33:422][ 89]LogOutputDevice: Error: 
+[2019.01.29-22.16.33:423][ 89]LogOutputDevice: Error: Ensure condition failed: AsAIController [File:C:\Program Files\Epic Games\UnrealEngine-release\Engine\Source\Runtime\AIModule\Private\Navigation\NavFilter_AIControllerDefault.cpp] [Line: 18]
+[2019.01.29-22.16.33:423][ 89]LogOutputDevice: Error: 
+[2019.01.29-22.16.33:424][ 89]LogOutputDevice: Error: Stack: 
+[2019.01.29-22.16.33:424][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75be857a1 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:425][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75bd0004c AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:425][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75bd00698 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:426][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75bd0e79a AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:428][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75bd5c4f1 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:428][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75905bce2 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:429][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff759231b19 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:429][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75924c91a AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:430][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff759260fa4 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:431][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75924f092 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:431][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff759232479 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:432][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75924c91a AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:432][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75924f092 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:432][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff759232479 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:433][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75924f092 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:433][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff759232479 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:434][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75924f092 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:434][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75905bce2 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:435][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75924e6b1 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:435][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75a8aa17b AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:438][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75b730e33 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:438][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75a8ba6b3 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:439][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75ad9fcfe AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:439][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75a8bae04 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:440][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75a88de25 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:440][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75b580e7a AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:441][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff758b4333d AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:441][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff758b437b6 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:442][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff758b557f9 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:442][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75b593633 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:443][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75b597b18 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:443][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75af2e20f AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:444][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75af36c32 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:445][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75ada0880 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:445][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff758629185 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:446][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff758636070 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:447][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff7586360fa AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:449][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff758642811 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:450][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff75c740182 AnimeWolfyServer.exe!UnknownFunction []
+[2019.01.29-22.16.33:450][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff894ae7e94 KERNEL32.DLL!UnknownFunction []
+[2019.01.29-22.16.33:451][ 89]LogOutputDevice: Error: [Callstack] 0x00007ff896f3a251 ntdll.dll!UnknownFunction []
+[2019.01.29-22.16.33:451][ 89]LogOutputDevice: Error: 
+[2019.01.29-22.16.33:461][ 89]LogStats:                SubmitErrorReport -  0.000 s
+[2019.01.29-22.16.33:560][ 89]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
+[2019.01.29-22.16.33:562][ 89]LogWindows: Warning: URL: ../../../Engine/Binaries/Win64/CrashReportClient.exe "D:/Studing/PRojects/NetworkUE4/Builds/WindowsNoEditor/AnimeWolfy/Saved/Crashes/UE4CC-Windows-647204E540BD634A201E7A885D10A7F0_0000" -Unattended -nullrhi -AppName=UE4-AnimeWolfy -CrashGUID=UE4CC-Windows-647204E540BD634A201E7A885D10A7F0_0000 -DebugSymbols=..\..\..\Engine\Intermediate\Symbols
+[2019.01.29-22.16.33:563][ 89]LogStats:                    SendNewReport -  0.102 s
+[2019.01.29-22.16.33:563][ 89]LogStats:             FDebug::EnsureFailed -  0.148 s
+[2019.01.29-22.16.34:343][113]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55114
+[2019.01.29-22.16.34:343][113]LogHandshake: SendConnectChallenge. Timestamp: 3.963746, Cookie: 042161191067068213038199188095124066166181228049014105058179
+[2019.01.29-22.16.34:376][114]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55114
+[2019.01.29-22.16.34:376][114]LogHandshake: SendChallengeAck. InCookie: 042161191067068213038199188095124066166181228049014105058179
+[2019.01.29-22.16.34:377][114]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55114
+[2019.01.29-22.16.34:378][114]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.29-22.16.34:378][114]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 01/30/19 01:16:34, [UNetConnection] RemoteAddr: 127.0.0.1:55114, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.29-22.16.34:378][114]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55114, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.29-22.16.34:409][115]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/TestMap.TestMap: Accepted
+[2019.01.29-22.16.34:409][115]LogNet: Remote platform little endian=1
+[2019.01.29-22.16.34:410][115]LogNet: This platform little endian=1
+[2019.01.29-22.16.34:410][115]LogNetVersion: AnimeWolfy 1.0.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 632502508)
+[2019.01.29-22.16.34:442][116]LogNet: Login request: /Game/Maps/EntryMap?Name=DESKTOP-PF2V43L-83972C564FADEF84A241B99631AA5161 userId: NULL:DESKTOP-PF2V43L-83972C564FADEF84A241B99631AA5161 platform: NULL
+[2019.01.29-22.16.34:476][117]LogNet: Client netspeed is 10000
+[2019.01.29-22.16.34:510][118]LogNet: Join request: /Game/Maps/EntryMap?Name=DESKTOP-PF2V43L-83972C564FADEF84A241B99631AA5161?SplitscreenCount=1
+[2019.01.29-22.16.34:510][118]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.29-22.16.34:512][118]LogBlueprintUserMessages: [MultGameMode_C_0] Hello Kek!
+[2019.01.29-22.16.34:514][118]LogNet: Join succeeded: DESKTOP-PF2V43L-8397
+[2019.01.29-22.16.34:576][120]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: MaterialInstanceDynamic /Game/Maps/TestMap.TestMap:PersistentLevel.Wolfy_Char_C_0.CharacterMesh0.MaterialInstanceDynamic_0 NOT Supported.
+[2019.01.29-22.16.34:708][124]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.34:809][127]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.34:908][130]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:007][133]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:107][136]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:206][139]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:304][142]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:404][145]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:504][148]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:604][151]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:703][154]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:802][157]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.35:902][160]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:001][163]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:099][166]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:199][169]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:297][172]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:396][175]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:495][178]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:594][181]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:695][184]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:796][187]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:895][190]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.36:995][193]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:095][196]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:226][200]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:293][202]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:393][205]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:492][208]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:593][211]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:725][215]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:792][217]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:893][220]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.37:992][223]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.38:091][226]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.38:223][230]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.38:322][233]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.38:389][235]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.38:488][238]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.38:587][241]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.38:719][245]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.38:818][248]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.39:114][257]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.39:114][257]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.39:115][257]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.39:213][260]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.39:312][263]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.39:411][266]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.39:511][269]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.39:742][276]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.01.29-22.16.39:742][276]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55114, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-83972C564FADEF84A241B99631AA5161
+[2019.01.29-22.16.39:743][276]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55114, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-83972C564FADEF84A241B99631AA5161, Channels: 12, Time: 2019.01.29-22.16.39
+[2019.01.29-22.16.39:744][276]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55114, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-83972C564FADEF84A241B99631AA5161
+[2019.01.29-22.16.39:745][276]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.01.29-22.16.48:777][544]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54094
+[2019.01.29-22.16.48:777][544]LogHandshake: SendConnectChallenge. Timestamp: 18.397526, Cookie: 094133155123219033227199079083077146110173094085106024229219
+[2019.01.29-22.16.48:810][545]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54094
+[2019.01.29-22.16.48:810][545]LogHandshake: SendChallengeAck. InCookie: 094133155123219033227199079083077146110173094085106024229219
+[2019.01.29-22.16.48:811][545]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54094
+[2019.01.29-22.16.48:812][545]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.29-22.16.48:812][545]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 01/30/19 01:16:48, [UNetConnection] RemoteAddr: 127.0.0.1:54094, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.29-22.16.48:813][545]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54094, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.29-22.16.48:844][546]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/TestMap.TestMap: Accepted
+[2019.01.29-22.16.48:844][546]LogNet: Remote platform little endian=1
+[2019.01.29-22.16.48:845][546]LogNet: This platform little endian=1
+[2019.01.29-22.16.48:878][547]LogNet: Login request: /Game/Maps/EntryMap?Name=DESKTOP-PF2V43L-AB1B4CB949E98FD237F60BA7618DC440 userId: NULL:DESKTOP-PF2V43L-AB1B4CB949E98FD237F60BA7618DC440 platform: NULL
+[2019.01.29-22.16.48:910][548]LogNet: Client netspeed is 10000
+[2019.01.29-22.16.48:943][549]LogNet: Join request: /Game/Maps/EntryMap?Name=DESKTOP-PF2V43L-AB1B4CB949E98FD237F60BA7618DC440?SplitscreenCount=1
+[2019.01.29-22.16.48:943][549]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.29-22.16.48:945][549]LogBlueprintUserMessages: [MultGameMode_C_0] Hello Kek!
+[2019.01.29-22.16.48:945][549]LogNet: Join succeeded: DESKTOP-PF2V43L-AB1B
+[2019.01.29-22.16.49:010][551]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: MaterialInstanceDynamic /Game/Maps/TestMap.TestMap:PersistentLevel.Wolfy_Char_C_1.CharacterMesh0.MaterialInstanceDynamic_0 NOT Supported.
+[2019.01.29-22.16.49:075][553]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:175][556]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:274][559]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:373][562]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:472][565]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:570][568]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:669][571]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:768][574]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:868][577]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.49:967][580]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:067][583]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:167][586]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:267][589]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:366][592]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:466][595]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:565][598]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:666][601]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:764][604]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:897][608]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.50:995][611]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:094][614]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:161][616]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:261][619]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:362][622]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:463][625]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:562][628]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:694][632]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:793][635]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:892][638]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.51:993][641]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:060][643]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:193][647]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:292][650]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:392][653]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:492][656]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:590][659]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:690][662]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:790][665]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:890][668]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.52:990][671]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:089][674]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:189][677]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:289][680]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:388][683]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:488][686]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:587][689]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:687][692]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:786][695]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:886][698]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.53:985][701]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:084][704]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:184][707]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:283][710]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:383][713]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:482][716]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:581][719]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:681][722]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:782][725]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:881][728]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.54:982][731]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:081][734]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:182][737]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:283][740]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:383][743]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:483][746]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:583][749]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:682][752]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:782][755]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:881][758]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.55:981][761]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:081][764]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:181][767]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:280][770]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:380][773]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:480][776]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:579][779]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:678][782]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:778][785]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:877][788]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.56:977][791]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:075][794]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:175][797]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:275][800]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:374][803]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:474][806]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:573][809]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:673][812]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:773][815]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:873][818]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.57:973][821]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:072][824]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:172][827]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:273][830]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:372][833]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:472][836]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:571][839]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:670][842]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:771][845]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:870][848]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.58:969][851]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:068][854]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:168][857]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:267][860]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:367][863]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:467][866]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:566][869]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:665][872]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:764][875]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:864][878]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.16.59:963][881]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:096][885]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:195][888]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:263][890]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:364][893]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:463][896]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:564][899]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:663][902]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:796][906]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:863][908]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.00:963][911]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:061][914]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:194][918]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:293][921]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:359][923]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:491][927]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:592][930]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:692][933]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:792][936]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:892][939]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.01:992][942]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:091][945]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:192][948]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:292][951]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:359][953]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:459][956]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:592][960]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:690][963]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:790][966]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:890][969]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.02:992][972]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.03:091][975]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.03:191][978]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.03:291][981]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.03:391][984]LogBlueprintUserMessages: [MultGameMode_C_0] 1
+[2019.01.29-22.17.03:524][988]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2019.01.29-22.17.03:524][988]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54094, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_1, Owner: Wolfy_Controller_C_1, UniqueId: NULL:DESKTOP-PF2V43L-AB1B4CB949E98FD237F60BA7618DC440
+[2019.01.29-22.17.03:525][988]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54094, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_1, Owner: Wolfy_Controller_C_1, UniqueId: NULL:DESKTOP-PF2V43L-AB1B4CB949E98FD237F60BA7618DC440, Channels: 16, Time: 2019.01.29-22.17.03
+[2019.01.29-22.17.03:526][988]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54094, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Wolfy_Controller_C_1, Owner: Wolfy_Controller_C_1, UniqueId: NULL:DESKTOP-PF2V43L-AB1B4CB949E98FD237F60BA7618DC440
+[2019.01.29-22.17.03:527][988]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.01.29-22.18.22:166][325]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.01.29-22.18.22:167][325]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.01.29-22.18.22:169][325]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.01.29-22.18.22:170][325]LogExit: Preparing to exit.
+[2019.01.29-22.18.22:174][325]LogExit: Game engine shut down
+[2019.01.29-22.18.22:220][325]LogExit: Object subsystem successfully closed.
+[2019.01.29-22.18.22:220][325]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2019.01.29-22.18.22:221][325]LogModuleManager: Shutting down and abandoning module AutomationWorker (170)
+[2019.01.29-22.18.22:222][325]LogModuleManager: Shutting down and abandoning module AIModule (168)
+[2019.01.29-22.18.22:222][325]LogModuleManager: Shutting down and abandoning module GameplayDebugger (167)
+[2019.01.29-22.18.22:223][325]LogModuleManager: Shutting down and abandoning module NavigationSystem (165)
+[2019.01.29-22.18.22:223][325]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (162)
+[2019.01.29-22.18.22:224][325]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (160)
+[2019.01.29-22.18.22:224][325]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (158)
+[2019.01.29-22.18.22:225][325]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (156)
+[2019.01.29-22.18.22:225][325]LogModuleManager: Shutting down and abandoning module CharacterAI (154)
+[2019.01.29-22.18.22:226][325]LogModuleManager: Shutting down and abandoning module SessionServices (152)
+[2019.01.29-22.18.22:226][325]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (150)
+[2019.01.29-22.18.22:227][325]LogModuleManager: Shutting down and abandoning module MovieScene (148)
+[2019.01.29-22.18.22:227][325]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (146)
+[2019.01.29-22.18.22:228][325]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (144)
+[2019.01.29-22.18.22:229][325]LogModuleManager: Shutting down and abandoning module ImageWrapper (143)
+[2019.01.29-22.18.22:231][325]LogModuleManager: Shutting down and abandoning module ProfilerService (140)
+[2019.01.29-22.18.22:401][325]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2019.01.29-22.18.22:401][325]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2019.01.29-22.18.22:402][325]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (134)
+[2019.01.29-22.18.22:403][325]LogModuleManager: Shutting down and abandoning module OculusInput (132)
+[2019.01.29-22.18.22:403][325]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (130)
+[2019.01.29-22.18.22:403][325]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (128)
+[2019.01.29-22.18.22:404][325]LogModuleManager: Shutting down and abandoning module CableComponent (126)
+[2019.01.29-22.18.22:405][325]LogModuleManager: Shutting down and abandoning module AudioCapture (124)
+[2019.01.29-22.18.22:405][325]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (122)
+[2019.01.29-22.18.22:405][325]LogModuleManager: Shutting down and abandoning module AndroidPermission (120)
+[2019.01.29-22.18.22:405][325]LogModuleManager: Shutting down and abandoning module MediaCompositing (118)
+[2019.01.29-22.18.22:406][325]LogModuleManager: Shutting down and abandoning module LinearTimecode (116)
+[2019.01.29-22.18.22:406][325]LogModuleManager: Shutting down and abandoning module ImgMedia (114)
+[2019.01.29-22.18.22:407][325]LogModuleManager: Shutting down and abandoning module Media (113)
+[2019.01.29-22.18.22:407][325]LogModuleManager: Shutting down and abandoning module HTML5Networking (110)
+[2019.01.29-22.18.22:407][325]LogModuleManager: Shutting down and abandoning module BackChannel (108)
+[2019.01.29-22.18.22:407][325]LogModuleManager: Shutting down and abandoning module AppleVision (106)
+[2019.01.29-22.18.22:408][325]LogModuleManager: Shutting down and abandoning module AppleImageUtils (104)
+[2019.01.29-22.18.22:408][325]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (102)
+[2019.01.29-22.18.22:408][325]LogModuleManager: Shutting down and abandoning module GeometryCache (100)
+[2019.01.29-22.18.22:409][325]LogModuleManager: Shutting down and abandoning module VariantManagerContent (98)
+[2019.01.29-22.18.22:409][325]LogModuleManager: Shutting down and abandoning module EditableMesh (96)
+[2019.01.29-22.18.22:409][325]LogModuleManager: Shutting down and abandoning module AnimeWolfy (94)
+[2019.01.29-22.18.22:410][325]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (92)
+[2019.01.29-22.18.22:410][325]LogModuleManager: Shutting down and abandoning module PhysXVehicles (90)
+[2019.01.29-22.18.22:410][325]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (88)
+[2019.01.29-22.18.22:410][325]LogModuleManager: Shutting down and abandoning module ActorSequence (86)
+[2019.01.29-22.18.22:411][325]LogModuleManager: Shutting down and abandoning module UdpMessaging (84)
+[2019.01.29-22.18.22:413][325]LogModuleManager: Shutting down and abandoning module TcpMessaging (82)
+[2019.01.29-22.18.22:414][325]LogModuleManager: Shutting down and abandoning module FacialAnimation (80)
+[2019.01.29-22.18.22:414][325]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (78)
+[2019.01.29-22.18.22:415][325]LogModuleManager: Shutting down and abandoning module AISupportModule (76)
+[2019.01.29-22.18.22:415][325]LogModuleManager: Shutting down and abandoning module Paper2D (74)
+[2019.01.29-22.18.22:415][325]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (72)
+[2019.01.29-22.18.22:416][325]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2019.01.29-22.18.22:416][325]LogModuleManager: Shutting down and abandoning module PacketHandler (68)
+[2019.01.29-22.18.22:416][325]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (66)
+[2019.01.29-22.18.22:417][325]LogModuleManager: Shutting down and abandoning module MediaAssets (64)
+[2019.01.29-22.18.22:417][325]LogModuleManager: Shutting down and abandoning module Messaging (62)
+[2019.01.29-22.18.22:417][325]LogModuleManager: Shutting down and abandoning module Networking (60)
+[2019.01.29-22.18.22:417][325]LogModuleManager: Shutting down and abandoning module Core (58)
+[2019.01.29-22.18.22:418][325]LogModuleManager: Shutting down and abandoning module LevelSequence (56)
+[2019.01.29-22.18.22:418][325]LogModuleManager: Shutting down and abandoning module NullDrv (52)
+[2019.01.29-22.18.22:418][325]LogModuleManager: Shutting down and abandoning module PhysXCooking (50)
+[2019.01.29-22.18.22:419][325]LogModuleManager: Shutting down and abandoning module SteamVR (48)
+[2019.01.29-22.18.22:419][325]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.29-22.18.22:419][325]LogModuleManager: Shutting down and abandoning module OculusHMD (46)
+[2019.01.29-22.18.22:419][325]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (44)
+[2019.01.29-22.18.22:420][325]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (42)
+[2019.01.29-22.18.22:420][325]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (38)
+[2019.01.29-22.18.22:420][325]LogModuleManager: Shutting down and abandoning module HTTP (33)
+[2019.01.29-22.18.22:454][325]LogModuleManager: Shutting down and abandoning module SSL (32)
+[2019.01.29-22.18.22:455][325]LogModuleManager: Shutting down and abandoning module DatasmithContent (28)
+[2019.01.29-22.18.22:459][325]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2019.01.29-22.18.22:465][325]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2019.01.29-22.18.22:466][325]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.29-22.18.22:466][325]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.29-22.18.22:466][325]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.29-22.18.22:467][325]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.29-22.18.22:467][325]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.29-22.18.22:467][325]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.29-22.18.22:468][325]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.29-22.18.22:468][325]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.29-22.18.22:468][325]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.29-22.18.22:468][325]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.29-22.18.22:469][325]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.29-22.18.22:470][325]LogExit: Exiting.
+[2019.01.29-22.18.22:477][325]Log file closed, 01/30/19 01:18:22

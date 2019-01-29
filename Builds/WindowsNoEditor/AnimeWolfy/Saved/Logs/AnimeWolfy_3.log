@@ -1,4 +1,4 @@
-﻿Log file open, 01/27/19 22:55:26
+﻿Log file open, 01/30/19 01:21:19
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -11,7 +11,7 @@ LogPakFile: Display: Found Pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-
 LogPakFile: Display: Mounting pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak.
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.366835
+LogStats: Stats thread started at 0.365017
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -60,7 +60,7 @@ LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.027s to configure plugins.
+LogStreaming: Display: Took  0.029s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -85,12 +85,12 @@ LogInit: Engine Version: 4.21.2-0+++UE4+Release-4.21
 LogInit: Compatible Engine Version: 4.21.0-0+++UE4+Release-4.21
 LogInit: Net CL: 0
 LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2080
-LogInit: Compiled (64-bit): Jan 27 2019 15:10:52
+LogInit: Compiled (64-bit): Jan 29 2019 10:23:51
 LogInit: Compiled with Visual C++: 19.16.27026.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.21
 LogInit: Command Line: 
-LogInit: Base Directory: D:/Studing/PRojects/AnimeWolfy/Builds/WindowsNoEditor/AnimeWolfy/Binaries/Win64/
+LogInit: Base Directory: D:/Studing/PRojects/NetworkUE4/Builds/WindowsNoEditor/AnimeWolfy/Binaries/Win64/
 LogInit: Installed Engine Build: 0
 LogDevObjectVersion: Number of dev versions registered: 22
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -121,483 +121,588 @@ LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Asy
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
-[2019.01.27-19.55.26:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.01.27-19.55.26:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
-[2019.01.27-19.55.26:825][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.01.27-19.55.26:825][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.01.27-19.55.26:826][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.01.27-19.55.26:826][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
-[2019.01.27-19.55.26:826][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
-[2019.01.27-19.55.26:829][  0]LogHAL: Display: Platform has ~ 16 GB [17118220288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.01.27-19.55.26:829][  0]LogInit: Going up to parent DeviceProfile [Windows]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
-[2019.01.27-19.55.26:829][  0]LogInit: Going up to parent DeviceProfile []
-[2019.01.27-19.55.26:829][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.01.27-19.55.26:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.01.27-19.55.26:830][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.01.27-19.55.26:830][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
-[2019.01.27-19.55.26:830][  0]LogInit: Computer: DESKTOP-PF2V43L
-[2019.01.27-19.55.26:830][  0]LogInit: User: Tinki
-[2019.01.27-19.55.26:830][  0]LogInit: CPU Page size=4096, Cores=6
-[2019.01.27-19.55.26:830][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.01.27-19.55.26:830][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2019.01.27-19.55.26:830][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
-[2019.01.27-19.55.26:830][  0]LogMemory: Process Physical Memory: 54.84 MB used, 54.85 MB peak
-[2019.01.27-19.55.26:830][  0]LogMemory: Process Virtual Memory: 66.05 MB used, 66.05 MB peak
-[2019.01.27-19.55.26:830][  0]LogMemory: Physical Memory: 11138.43 MB used,  5186.78 MB free, 16325.21 MB total
-[2019.01.27-19.55.26:830][  0]LogMemory: Virtual Memory: 4448.60 MB used,  134213280.00 MB free, 134217728.00 MB total
-[2019.01.27-19.55.26:842][  0]LogInit: Using OS detected language (ru-RU).
-[2019.01.27-19.55.26:843][  0]LogInit: Using OS detected locale (ru-RU).
-[2019.01.27-19.55.26:843][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
-[2019.01.27-19.55.26:843][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
-[2019.01.27-19.55.26:859][  0]LogStreaming: Display: Took  0.017s to InitEngineTextLocalization.
-[2019.01.27-19.55.26:868][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.01.27-19.55.26:868][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.01.27-19.55.26:874][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.01.27-19.55.26:874][  0]LogD3D11RHI: D3D11 adapters:
-[2019.01.27-19.55.26:936][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
-[2019.01.27-19.55.26:936][  0]LogD3D11RHI:       8010/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2019.01.27-19.55.26:938][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.01.27-19.55.26:938][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.01.27-19.55.26:938][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.01.27-19.55.26:944][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.01.27-19.55.26:944][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
-[2019.01.27-19.55.26:944][  0]LogWindows: EnumDisplayDevices:
-[2019.01.27-19.55.26:945][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
-[2019.01.27-19.55.26:945][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
-[2019.01.27-19.55.26:945][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
-[2019.01.27-19.55.26:946][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
-[2019.01.27-19.55.26:946][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2019.01.27-19.55.26:946][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
-[2019.01.27-19.55.26:946][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
-[2019.01.27-19.55.26:946][  0]LogD3D11RHI:      Driver Date: 11-12-2018
-[2019.01.27-19.55.26:946][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
-[2019.01.27-19.55.26:980][  0]LogD3D11RHI: Async texture creation enabled
-[2019.01.27-19.55.26:999][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.01.27-19.55.27:090][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
-[2019.01.27-19.55.27:090][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global_SC and no native library supported.
-[2019.01.27-19.55.27:090][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
-[2019.01.27-19.55.27:090][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
-[2019.01.27-19.55.27:090][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
-[2019.01.27-19.55.27:091][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
-[2019.01.27-19.55.27:100][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.01.27-19.55.27:124][  0]LogSlate: Using FreeType 2.6.0
-[2019.01.27-19.55.27:125][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.01.27-19.55.27:185][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimeWolfy and no native library supported.
-[2019.01.27-19.55.27:185][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimeWolfy_SC and no native library supported.
-[2019.01.27-19.55.27:185][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
-[2019.01.27-19.55.27:185][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimeWolfy and no native library supported.
-[2019.01.27-19.55.27:185][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimeWolfy_SC and no native library supported.
-[2019.01.27-19.55.27:186][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
-[2019.01.27-19.55.27:186][  0]LogRHI: Display: Failed to open default shader pipeline cache for AnimeWolfy using shader platform 0.
-[2019.01.27-19.55.27:186][  0]LogRHI: Display: Failed to open default shader pipeline cache for AnimeWolfy using shader platform 0.
-[2019.01.27-19.55.27:186][  0]LogInit: Using OS detected language (ru-RU).
-[2019.01.27-19.55.27:186][  0]LogInit: Using OS detected locale (ru-RU).
-[2019.01.27-19.55.27:186][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
-[2019.01.27-19.55.27:186][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
-[2019.01.27-19.55.27:186][  0]LogStreaming: Display: Took  0.001s to InitGameTextLocalization.
-[2019.01.27-19.55.27:194][  0]LogAssetRegistry: FAssetRegistry took 0.0074 seconds to start up
-[2019.01.27-19.55.27:264][  0]LogStreaming: Display: Flushing async loaders.
-[2019.01.27-19.55.27:269][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.004863 seconds
-[2019.01.27-19.55.27:269][  0]LogPakFile: New pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak added to pak precacher.
-[2019.01.27-19.55.27:270][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
-[2019.01.27-19.55.27:277][  0]LogNetVersion: AnimeWolfy 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3604432672)
-[2019.01.27-19.55.27:408][  0]LogMoviePlayer: Initializing movie player
-[2019.01.27-19.55.27:496][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.01.27-19.55.27:496][  0]LogOcInput: OculusInput pre-init called
-[2019.01.27-19.55.27:499][  0]LogUObjectArray: 34978 objects as part of root set at end of initial load.
-[2019.01.27-19.55.27:499][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
-[2019.01.27-19.55.27:499][  0]LogUObjectAllocator: 5223680 out of 0 bytes used by permanent object pool.
-[2019.01.27-19.55.27:499][  0]LogUObjectArray: CloseDisregardForGC: 34978/34978 objects in disregard for GC pool
-[2019.01.27-19.55.27:577][  0]LogEngine: Initializing Engine...
-[2019.01.27-19.55.27:577][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.01.27-19.55.27:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.01.27-19.55.27:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.01.27-19.55.27:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.01.27-19.55.27:588][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.01.27-19.55.27:649][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.01.27-19.55.27:662][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.27-19.55.27:680][  0]LogInit: FAudioDevice initialized.
-[2019.01.27-19.55.27:691][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.01.27-19.55.27:691][  0]LogInit: Texture streaming: Enabled
-[2019.01.27-19.55.27:692][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.27-19.55.27:692][  0]LogInit: Display: Game Engine Initialized.
-[2019.01.27-19.55.27:692][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2019.01.27-19.55.27:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.01.27-19.55.27:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.01.27-19.55.27:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.01.27-19.55.27:693][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.01.27-19.55.27:699][  0]LogInit: Display: Starting Game.
-[2019.01.27-19.55.27:699][  0]LogNet: Browse: /Game/Maps/EntryMap?Name=Player
-[2019.01.27-19.55.27:712][  0]LogLoad: LoadMap: /Game/Maps/EntryMap?Name=Player
-[2019.01.27-19.55.27:743][  0]LogAIModule: Creating AISystem for world EntryMap
-[2019.01.27-19.55.27:743][  0]LogLoad: Game class is 'EntryGameMode_C'
-[2019.01.27-19.55.27:744][  0]LogWorld: Bringing World /Game/Maps/EntryMap.EntryMap up for play (max tick rate 0) at 2019.01.27-22.55.27
-[2019.01.27-19.55.27:744][  0]LogWorld: Bringing up level for play took: 0.000437
-[2019.01.27-19.55.27:745][  0]LogUMG: Display: Widget Class Spector_Widget_C - Loaded Fast Template.
-[2019.01.27-19.55.27:746][  0]LogLoad: Took 0.034352 seconds to LoadMap(/Game/Maps/EntryMap)
-[2019.01.27-19.55.27:746][  0]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.01.27-19.55.27:747][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
-[2019.01.27-19.55.27:772][  0]LogLoad: (Engine Initialization) Total time: 1.61 seconds
-[2019.01.27-19.55.27:773][  0]LogRenderer: Reallocating scene render targets to support 2560x1380 Format 10 NumSamples 1 (Frame:1).
-[2019.01.27-19.55.27:811][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.01.27-19.55.28:761][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.27-19.55.29:696][117]LogNet: Browse: 127.0.0.1//Game/Maps/EntryMap
-[2019.01.27-19.55.29:696][117]LogTemp: Display: ParseSettings for GameNetDriver
-[2019.01.27-19.55.29:696][117]LogTemp: Display: ParseSettings for IpNetDriver_0
-[2019.01.27-19.55.29:696][117]LogTemp: Display: ParseSettings for PendingNetDriver
-[2019.01.27-19.55.29:696][117]LogInit: WinSock: Socket queue 32768 / 32768
-[2019.01.27-19.55.29:698][117]LogInit: WinSock: I am DESKTOP-PF2V43L (192.168.1.4:0)
-[2019.01.27-19.55.29:698][117]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
-[2019.01.27-19.55.29:698][117]LogNet: Game client on port 7777, rate 10000
-[2019.01.27-19.55.29:728][119]LogHandshake: SendChallengeResponse. Timestamp: 19.507374, Cookie: 208020071209212024135091010089110184214223091150091086110109
-[2019.01.27-19.55.29:761][121]LogNetVersion: AnimeWolfy 1.0.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 632502508)
-[2019.01.27-19.55.29:761][121]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
-[2019.01.27-19.55.29:825][125]LogNet: Welcomed by server (Level: /Game/Maps/TestMap, Game: /Game/Blueprints/MultGameMode.MultGameMode_C)
-[2019.01.27-19.55.29:826][125]LogLoad: LoadMap: 127.0.0.1//Game/Maps/TestMap?game=/Game/Blueprints/MultGameMode.MultGameMode_C
-[2019.01.27-19.55.29:832][125]LogStreaming: Display: Flushing async loaders.
-[2019.01.27-19.55.29:878][125]LogTemp: Display: ParseSettings for GameNetDriver
-[2019.01.27-19.55.29:879][125]LogWorld: Bringing World /Game/Maps/TestMap.TestMap up for play (max tick rate 0) at 2019.01.27-22.55.29
-[2019.01.27-19.55.29:879][125]LogWorld: Bringing up level for play took: 0.000757
-[2019.01.27-19.55.29:880][125]LogLoad: Took 0.054643 seconds to LoadMap(/Game/Maps/TestMap)
-[2019.01.27-19.55.29:985][131]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
-[2019.01.27-19.55.30:017][133]LogUMG: Display: Widget Class Player_Widget_C - Loaded Fast Template.
-[2019.01.27-19.55.30:163][142]LogUMG: Display: Widget Class PlayerEntry_Widget_C - Loaded Fast Template.
-[2019.01.27-19.55.30:647][172]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
-[2019.01.27-19.55.53:890][613]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
-[2019.01.27-19.55.57:084][811]LogSlate: Request Window 'AnimeWolfy (64-bit Development PCD3D_SM5) ' being destroyed
-[2019.01.27-19.55.57:109][811]LogSlate: Window 'AnimeWolfy (64-bit Development PCD3D_SM5) ' being destroyed
-[2019.01.27-19.55.57:109][811]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2019.01.27-19.55.57:114][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.27-19.55.57:114][811]LogEngine: All Windows Closed
-[2019.01.27-19.55.57:114][811]LogWindows: FPlatformMisc::RequestExit(0)
-[2019.01.27-19.55.57:119][812]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
-[2019.01.27-19.55.57:119][812]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
-[2019.01.27-19.55.57:119][812]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-D5A38ACD44F9989D718F9EBF030F8B6F, Channels: 19, Time: 2019.01.27-19.55.57
-[2019.01.27-19.55.57:119][812]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-D5A38ACD44F9989D718F9EBF030F8B6F
-[2019.01.27-19.55.57:119][812]LogExit: GameNetDriver IpNetDriver_0 shut down
-[2019.01.27-19.55.57:621][812]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2019.01.27-19.55.57:621][812]LogExit: Preparing to exit.
-[2019.01.27-19.55.57:621][812]LogMoviePlayer: Shutting down movie player
-[2019.01.27-19.55.57:626][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.27-19.55.57:628][812]LogExit: Game engine shut down
-[2019.01.27-19.55.57:651][812]LogExit: Object subsystem successfully closed.
-[2019.01.27-19.55.57:657][812]LogD3D11RHI: Shutdown
-[2019.01.27-19.55.57:657][812]LogD3D11RHI: CleanupD3DDevice
-[2019.01.27-19.55.57:658][812]LogD3D11RHI: ~FD3D11DynamicRHI
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module AutomationController (196)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module AutomationWorker (194)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module Voice (192)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module AIModule (190)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module GameplayDebugger (189)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module NavigationSystem (187)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (184)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module WebMMedia (182)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (180)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (178)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (176)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (174)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module CharacterAI (172)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module SessionServices (170)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (168)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module MovieScene (166)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (164)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (162)
-[2019.01.27-19.55.57:658][812]LogModuleManager: Shutting down and abandoning module ProfilerService (160)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module TaskGraph (158)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module SteamVRController (156)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (154)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module OculusInput (152)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (150)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (148)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module CableComponent (146)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module AudioCapture (144)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (142)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module AndroidPermission (140)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module MediaCompositing (138)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module LinearTimecode (136)
-[2019.01.27-19.55.57:806][812]LogModuleManager: Shutting down and abandoning module ImgMedia (134)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module BackChannel (130)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module AppleVision (128)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module AppleImageUtils (126)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (124)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module GeometryCache (122)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module VariantManagerContent (120)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module EditableMesh (118)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module AnimeWolfy (116)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (114)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module PhysXVehicles (112)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (110)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module ActorSequence (108)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module UdpMessaging (106)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module TcpMessaging (104)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module FacialAnimation (102)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (100)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module AISupportModule (98)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module Paper2D (96)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (94)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (92)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module WmfMedia (90)
-[2019.01.27-19.55.57:807][812]LogModuleManager: Shutting down and abandoning module Media (89)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module PacketHandler (86)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (84)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module MediaAssets (82)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module Overlay (80)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module UMG (78)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module SlateReflector (76)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module Slate (74)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module MRMesh (72)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module Messaging (70)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module XAudio2 (66)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module Networking (64)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module Core (62)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module LevelSequence (60)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module InputCore (54)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module PhysXCooking (52)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module SteamVR (50)
-[2019.01.27-19.55.57:814][812]LogHMD: Freeing OpenVRDLLHandle.
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module OculusHMD (48)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (46)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (44)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (40)
-[2019.01.27-19.55.57:814][812]LogModuleManager: Shutting down and abandoning module HTTP (35)
-[2019.01.27-19.55.57:843][812]LogModuleManager: Shutting down and abandoning module SSL (34)
-[2019.01.27-19.55.57:843][812]LogModuleManager: Shutting down and abandoning module DatasmithContent (30)
-[2019.01.27-19.55.57:843][812]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2019.01.27-19.55.57:843][812]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2019.01.27-19.55.57:843][812]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2019.01.27-19.55.57:843][812]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2019.01.27-19.55.57:843][812]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2019.01.27-19.55.57:843][812]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2019.01.27-19.55.57:844][812]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2019.01.27-19.55.57:844][812]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2019.01.27-19.55.57:844][812]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2019.01.27-19.55.57:844][812]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2019.01.27-19.55.57:844][812]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2019.01.27-19.55.57:844][812]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2019.01.27-19.55.57:844][812]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2019.01.27-19.55.57:844][812]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2019.01.27-19.55.57:846][812]LogExit: Exiting.
-[2019.01.27-19.55.57:852][812]Log file closed, 01/27/19 22:55:57
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.01.29-22.21.19:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.29-22.21.19:347][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.01.29-22.21.19:351][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-22.21.19:351][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-22.21.19:352][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-22.21.19:352][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.01.29-22.21.19:352][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2019.01.29-22.21.19:355][  0]LogHAL: Display: Platform has ~ 16 GB [17118220288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.29-22.21.19:355][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.29-22.21.19:355][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.29-22.21.19:355][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.29-22.21.19:355][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.29-22.21.19:356][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.29-22.21.19:356][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../AnimeWolfy/Saved/Config/WindowsNoEditor/Engine.ini]
+[2019.01.29-22.21.19:356][  0]LogInit: Computer: DESKTOP-PF2V43L
+[2019.01.29-22.21.19:356][  0]LogInit: User: Tinki
+[2019.01.29-22.21.19:356][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.29-22.21.19:356][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.29-22.21.19:356][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.29-22.21.19:356][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2019.01.29-22.21.19:356][  0]LogMemory: Process Physical Memory: 54.88 MB used, 54.88 MB peak
+[2019.01.29-22.21.19:356][  0]LogMemory: Process Virtual Memory: 66.07 MB used, 66.07 MB peak
+[2019.01.29-22.21.19:356][  0]LogMemory: Physical Memory: 12710.84 MB used,  3614.37 MB free, 16325.21 MB total
+[2019.01.29-22.21.19:356][  0]LogMemory: Virtual Memory: 4448.66 MB used,  134213280.00 MB free, 134217728.00 MB total
+[2019.01.29-22.21.19:366][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.29-22.21.19:366][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.29-22.21.19:366][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2019.01.29-22.21.19:366][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2019.01.29-22.21.19:382][  0]LogStreaming: Display: Took  0.016s to InitEngineTextLocalization.
+[2019.01.29-22.21.19:393][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.29-22.21.19:393][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.29-22.21.19:400][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.29-22.21.19:400][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.29-22.21.19:486][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.01.29-22.21.19:486][  0]LogD3D11RHI:       8010/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.29-22.21.19:487][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.29-22.21.19:487][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.29-22.21.19:487][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.29-22.21.19:496][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.29-22.21.19:496][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.29-22.21.19:496][  0]LogWindows: EnumDisplayDevices:
+[2019.01.29-22.21.19:496][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.01.29-22.21.19:496][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.01.29-22.21.19:496][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.01.29-22.21.19:497][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.01.29-22.21.19:497][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.29-22.21.19:497][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.01.29-22.21.19:497][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2019.01.29-22.21.19:497][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2019.01.29-22.21.19:497][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.01.29-22.21.19:539][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.29-22.21.19:557][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.29-22.21.19:646][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2019.01.29-22.21.19:646][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global_SC and no native library supported.
+[2019.01.29-22.21.19:646][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.01.29-22.21.19:646][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MeshEditor_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: VariantManagerContent_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2019.01.29-22.21.19:647][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2019.01.29-22.21.19:656][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.29-22.21.19:680][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.29-22.21.19:682][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.29-22.21.19:734][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimeWolfy and no native library supported.
+[2019.01.29-22.21.19:734][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimeWolfy_SC and no native library supported.
+[2019.01.29-22.21.19:735][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.01.29-22.21.19:735][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimeWolfy and no native library supported.
+[2019.01.29-22.21.19:735][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimeWolfy_SC and no native library supported.
+[2019.01.29-22.21.19:735][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2019.01.29-22.21.19:735][  0]LogRHI: Display: Failed to open default shader pipeline cache for AnimeWolfy using shader platform 0.
+[2019.01.29-22.21.19:735][  0]LogRHI: Display: Failed to open default shader pipeline cache for AnimeWolfy using shader platform 0.
+[2019.01.29-22.21.19:735][  0]LogInit: Using OS detected language (ru-RU).
+[2019.01.29-22.21.19:735][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.01.29-22.21.19:735][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2019.01.29-22.21.19:735][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2019.01.29-22.21.19:735][  0]LogStreaming: Display: Took  0.001s to InitGameTextLocalization.
+[2019.01.29-22.21.19:744][  0]LogAssetRegistry: FAssetRegistry took 0.0085 seconds to start up
+[2019.01.29-22.21.19:807][  0]LogStreaming: Display: Flushing async loaders.
+[2019.01.29-22.21.19:815][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.006814 seconds
+[2019.01.29-22.21.19:815][  0]LogPakFile: New pak file ../../../AnimeWolfy/Content/Paks/AnimeWolfy-WindowsNoEditor.pak added to pak precacher.
+[2019.01.29-22.21.19:816][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2019.01.29-22.21.19:822][  0]LogNetVersion: AnimeWolfy 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3604432672)
+[2019.01.29-22.21.19:947][  0]LogMoviePlayer: Initializing movie player
+[2019.01.29-22.21.20:035][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.29-22.21.20:035][  0]LogOcInput: OculusInput pre-init called
+[2019.01.29-22.21.20:048][  0]LogUObjectArray: 34978 objects as part of root set at end of initial load.
+[2019.01.29-22.21.20:048][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2019.01.29-22.21.20:049][  0]LogUObjectAllocator: 5223680 out of 0 bytes used by permanent object pool.
+[2019.01.29-22.21.20:049][  0]LogUObjectArray: CloseDisregardForGC: 34978/34978 objects in disregard for GC pool
+[2019.01.29-22.21.20:126][  0]LogEngine: Initializing Engine...
+[2019.01.29-22.21.20:126][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.29-22.21.20:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-22.21.20:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-22.21.20:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-22.21.20:137][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-22.21.20:195][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.29-22.21.20:208][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.29-22.21.20:250][  0]LogInit: FAudioDevice initialized.
+[2019.01.29-22.21.20:261][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.29-22.21.20:261][  0]LogInit: Texture streaming: Enabled
+[2019.01.29-22.21.20:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-22.21.20:262][  0]LogInit: Display: Game Engine Initialized.
+[2019.01.29-22.21.20:262][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.29-22.21.20:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.29-22.21.20:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.29-22.21.20:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.29-22.21.20:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.29-22.21.20:273][  0]LogInit: Display: Starting Game.
+[2019.01.29-22.21.20:273][  0]LogNet: Browse: /Game/Maps/EntryMap?Name=Player
+[2019.01.29-22.21.20:286][  0]LogLoad: LoadMap: /Game/Maps/EntryMap?Name=Player
+[2019.01.29-22.21.20:321][  0]LogAIModule: Creating AISystem for world EntryMap
+[2019.01.29-22.21.20:321][  0]LogLoad: Game class is 'MultGameMode_C'
+[2019.01.29-22.21.20:322][  0]LogWorld: Bringing World /Game/Maps/EntryMap.EntryMap up for play (max tick rate 0) at 2019.01.30-01.21.20
+[2019.01.29-22.21.20:322][  0]LogWorld: Bringing up level for play took: 0.000419
+[2019.01.29-22.21.20:323][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.29-22.21.20:323][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:323][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/MultGameState.MultGameState_C:ExecuteUbergraph_MultGameState'!
+[2019.01.29-22.21.20:323][  0]LogUMG: Display: Widget Class Spector_Widget_C - Loaded Fast Template.
+[2019.01.29-22.21.20:324][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.01.29-22.21.20:324][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:324][  0]LogLoad: Took 0.037775 seconds to LoadMap(/Game/Maps/EntryMap)
+[2019.01.29-22.21.20:324][  0]LogSlate: Took 0.000063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.29-22.21.20:325][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2019.01.29-22.21.20:350][  0]LogLoad: (Engine Initialization) Total time: 1.67 seconds
+[2019.01.29-22.21.20:353][  0]LogRenderer: Reallocating scene render targets to support 2560x1380 Format 10 NumSamples 1 (Frame:1).
+[2019.01.29-22.21.20:390][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.29-22.21.20:404][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:421][  2]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:436][  3]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:452][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:469][  5]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:485][  6]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:501][  7]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:517][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:534][  9]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:550][ 10]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:566][ 11]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:582][ 12]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:598][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:614][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:631][ 15]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:646][ 16]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:662][ 17]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:678][ 18]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:694][ 19]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:710][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:727][ 21]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:743][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:759][ 23]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:775][ 24]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:791][ 25]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:807][ 26]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:824][ 27]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:840][ 28]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:856][ 29]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:872][ 30]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:889][ 31]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:905][ 32]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:921][ 33]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:936][ 34]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:953][ 35]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:969][ 36]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.20:985][ 37]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:001][ 38]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:017][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:033][ 40]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:049][ 41]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:066][ 42]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:082][ 43]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:098][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:114][ 45]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:130][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:146][ 47]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:162][ 48]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:179][ 49]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:195][ 50]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:211][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-22.21.21:215][ 51]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:231][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:244][ 53]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:259][ 54]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:276][ 55]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:291][ 56]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:307][ 57]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:324][ 58]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:342][ 59]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:356][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:372][ 61]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:389][ 62]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:405][ 63]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:421][ 64]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:437][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:453][ 66]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:470][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:485][ 68]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:501][ 69]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:517][ 70]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:533][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:549][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:565][ 73]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:582][ 74]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:598][ 75]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:614][ 76]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:630][ 77]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Blueprints/MultGameMode.MultGameMode_C:ReadyToStartMatch'!
+[2019.01.29-22.21.21:646][ 78]LogGameMode: Display: Match State Changed from WaitingToStart to LeavingMap
+[2019.01.29-22.21.21:646][ 78]LogGameState: Match State Changed from WaitingToStart to LeavingMap
+[2019.01.29-22.21.21:646][ 78]LogNet: Browse: 127.0.0.1//Game/Maps/EntryMap
+[2019.01.29-22.21.21:647][ 78]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.01.29-22.21.21:647][ 78]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.01.29-22.21.21:647][ 78]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.01.29-22.21.21:647][ 78]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.01.29-22.21.21:648][ 78]LogInit: WinSock: I am DESKTOP-PF2V43L (192.168.1.4:0)
+[2019.01.29-22.21.21:649][ 78]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.01.29-22.21.21:649][ 78]LogNet: Game client on port 7777, rate 10000
+[2019.01.29-22.21.21:695][ 81]LogHandshake: SendChallengeResponse. Timestamp: 39.399040, Cookie: 255017253048109175133079039142148183130222121128082063001103
+[2019.01.29-22.21.21:727][ 83]LogNetVersion: AnimeWolfy 1.0.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 632502508)
+[2019.01.29-22.21.21:727][ 83]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.01.29-22.21.21:791][ 87]LogNet: Welcomed by server (Level: /Game/Maps/TestMap, Game: /Game/Blueprints/MultGameMode.MultGameMode_C)
+[2019.01.29-22.21.21:791][ 87]LogLoad: LoadMap: 127.0.0.1//Game/Maps/TestMap?game=/Game/Blueprints/MultGameMode.MultGameMode_C
+[2019.01.29-22.21.21:799][ 87]LogStreaming: Display: Flushing async loaders.
+[2019.01.29-22.21.21:842][ 87]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.01.29-22.21.21:843][ 87]LogWorld: Bringing World /Game/Maps/TestMap.TestMap up for play (max tick rate 0) at 2019.01.30-01.21.21
+[2019.01.29-22.21.21:843][ 87]LogWorld: Bringing up level for play took: 0.000702
+[2019.01.29-22.21.21:843][ 87]LogLoad: Took 0.051959 seconds to LoadMap(/Game/Maps/TestMap)
+[2019.01.29-22.21.21:926][ 90]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Wolfy_Char_C_0. Function SetMaterialForPawn will not be processed.
+[2019.01.29-22.21.21:957][ 92]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.29-22.21.21:990][ 94]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: MaterialInstanceDynamic /Game/Maps/TestMap.TestMap:PersistentLevel.Wolfy_Char_C_0.CharacterMesh0.MaterialInstanceDynamic_1 NOT Supported.
+[2019.01.29-22.21.21:991][ 94]LogUMG: Display: Widget Class Player_Widget_C - Loaded Fast Template.
+[2019.01.29-22.21.22:054][ 98]LogUMG: Display: Widget Class PlayerEntry_Widget_C - Loaded Fast Template.
+[2019.01.29-22.21.22:055][ 98]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Wolfy_Char_C_1. Function SetMaterialForPawn will not be processed.
+[2019.01.29-22.21.22:056][ 98]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Wolfy_Char_C_1. Function SetMaterialForPawn will not be processed.
+[2019.01.29-22.21.22:216][108]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.01.29-22.21.24:248][234]LogScript: Warning: Accessed None trying to read property EmmisiveMaterial
+	Wolfy_Char_C /Game/Maps/TestMap.TestMap:PersistentLevel.Wolfy_Char_C_0
+	Function /Game/Blueprints/Player/Wolfy_Char.Wolfy_Char_C:ExecuteUbergraph_Wolfy_Char:123D
+[2019.01.29-22.21.24:248][234]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Player/Wolfy_Char.Wolfy_Char_C:UpdatePlayerEmmision
+	Function /Game/Blueprints/Player/Wolfy_Char.Wolfy_Char_C:ExecuteUbergraph_Wolfy_Char
+
+[2019.01.29-22.21.24:248][234]LogScript: Warning: Accessed None trying to read property EmmisiveMaterial
+	Wolfy_Char_C /Game/Maps/TestMap.TestMap:PersistentLevel.Wolfy_Char_C_0
+	Function /Game/Blueprints/Player/Wolfy_Char.Wolfy_Char_C:ExecuteUbergraph_Wolfy_Char:12AE
+[2019.01.29-22.21.24:248][234]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Player/Wolfy_Char.Wolfy_Char_C:UpdatePlayerEmmision
+	Function /Game/Blueprints/Player/Wolfy_Char.Wolfy_Char_C:ExecuteUbergraph_Wolfy_Char
+
+[2019.01.29-22.21.28:038][468]LogUMG: Display: Widget Class Respawn_Widget_C - Loaded Fast Template.
+[2019.01.29-22.21.29:320][548]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor Wolfy_Char_C_2. Function SetMaterialForPawn will not be processed.
+[2019.01.29-22.21.29:320][548]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: MaterialInstanceDynamic /Game/Maps/TestMap.TestMap:PersistentLevel.Wolfy_Char_C_2.CharacterMesh0.MaterialInstanceDynamic_1 NOT Supported.
+[2019.01.29-22.21.38:077][ 91]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2019.01.29-22.21.40:043][194]LogSlate: Request Window 'AnimeWolfy (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.01.29-22.21.40:066][194]LogSlate: Window 'AnimeWolfy (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.01.29-22.21.40:067][194]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.29-22.21.40:072][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-22.21.40:073][194]LogEngine: All Windows Closed
+[2019.01.29-22.21.40:073][194]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.01.29-22.21.40:077][195]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.01.29-22.21.40:077][195]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.01.29-22.21.40:077][195]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-6A417A4545D3BAB05A16D6A6FEAF7072, Channels: 20, Time: 2019.01.29-22.21.40
+[2019.01.29-22.21.40:077][195]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: Wolfy_Controller_C_0, Owner: Wolfy_Controller_C_0, UniqueId: NULL:DESKTOP-PF2V43L-6A417A4545D3BAB05A16D6A6FEAF7072
+[2019.01.29-22.21.40:077][195]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.01.29-22.21.40:142][195]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.29-22.21.40:142][195]LogExit: Preparing to exit.
+[2019.01.29-22.21.40:142][195]LogMoviePlayer: Shutting down movie player
+[2019.01.29-22.21.40:145][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.29-22.21.40:147][195]LogExit: Game engine shut down
+[2019.01.29-22.21.40:172][195]LogExit: Object subsystem successfully closed.
+[2019.01.29-22.21.40:182][195]LogD3D11RHI: Shutdown
+[2019.01.29-22.21.40:182][195]LogD3D11RHI: CleanupD3DDevice
+[2019.01.29-22.21.40:183][195]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module AutomationController (196)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module AutomationWorker (194)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module Voice (192)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module AIModule (190)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module GameplayDebugger (189)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module NavigationSystem (187)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (184)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module WebMMedia (182)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (180)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (178)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (176)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (174)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module CharacterAI (172)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module SessionServices (170)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (168)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module MovieScene (166)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (164)
+[2019.01.29-22.21.40:183][195]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (162)
+[2019.01.29-22.21.40:184][195]LogModuleManager: Shutting down and abandoning module ProfilerService (160)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module TaskGraph (158)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module SteamVRController (156)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (154)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module OculusInput (152)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (150)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (148)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module CableComponent (146)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module AudioCapture (144)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (142)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module AndroidPermission (140)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module MediaCompositing (138)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module LinearTimecode (136)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module ImgMedia (134)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module BackChannel (130)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module AppleVision (128)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module AppleImageUtils (126)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (124)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module GeometryCache (122)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module VariantManagerContent (120)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module EditableMesh (118)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module AnimeWolfy (116)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (114)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module PhysXVehicles (112)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (110)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module ActorSequence (108)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module UdpMessaging (106)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module TcpMessaging (104)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module FacialAnimation (102)
+[2019.01.29-22.21.40:343][195]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (100)
+[2019.01.29-22.21.40:344][195]LogModuleManager: Shutting down and abandoning module AISupportModule (98)
+[2019.01.29-22.21.40:344][195]LogModuleManager: Shutting down and abandoning module Paper2D (96)
+[2019.01.29-22.21.40:344][195]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (94)
+[2019.01.29-22.21.40:344][195]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (92)
+[2019.01.29-22.21.40:344][195]LogModuleManager: Shutting down and abandoning module WmfMedia (90)
+[2019.01.29-22.21.40:344][195]LogModuleManager: Shutting down and abandoning module Media (89)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module PacketHandler (86)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (84)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module MediaAssets (82)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module Overlay (80)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module UMG (78)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module SlateReflector (76)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module MRMesh (72)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module Messaging (70)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module XAudio2 (66)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module Networking (64)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module Core (62)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module LevelSequence (60)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module InputCore (54)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module PhysXCooking (52)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module SteamVR (50)
+[2019.01.29-22.21.40:350][195]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module OculusHMD (48)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (46)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (44)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (40)
+[2019.01.29-22.21.40:350][195]LogModuleManager: Shutting down and abandoning module HTTP (35)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module SSL (34)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module DatasmithContent (30)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.29-22.21.40:363][195]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.29-22.21.40:365][195]LogExit: Exiting.
+[2019.01.29-22.21.40:373][195]Log file closed, 01/30/19 01:21:40
